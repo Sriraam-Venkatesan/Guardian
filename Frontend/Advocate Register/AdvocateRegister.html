@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Advocate Registeration</title>
+</head>
+<style>
+    @font-face {
+        font-family: "home-para";
+        src: url("./cinzel.regular.otf");
+    }
+     @font-face {
+        font-family:"home-cred" ;
+        src: url("./NotoSerif-VariableFont_wdth\,wght.ttf");
+    }
+    @font-face {
+        font-family: "title";
+        src: url("./Cinzel-Bold.otf");
+    }
+    body{
+        margin: 0;
+        padding: 0;
+    }
+    #box{
+        padding-top:50px;
+        width:400px;
+        height:910px;
+        background-image: linear-gradient(to bottom right,  #c78334, #7c5a04);
+        margin-left: 37%;
+        /* margin-top: 15px; */
+        margin-bottom: 3%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        /* align-items: center; */
+        border-radius: 50px 0px 50px 0px;
+        box-shadow: 0px 0px 12px;
+        
+        
+        
+    }
+   .input-title{
+    font-family: "home-para";
+    color: white;
+    margin-left: 50px;
+   }
+   .input-box{
+    width: 275px;
+    height: 25px;
+    padding: 0px;
+    margin-left: 50px;
+    border-radius: 5px;
+    border:none;
+    padding-left: 5px;
+    font-family: home-cred;
+   
+   }
+   .input-box:focus{
+     outline: none;
+     box-shadow: 0px 0px 5px;
+   }
+   select:focus{
+     
+     box-shadow: 0px 0px 5px;
+     
+   }
+   
+   #title{
+    font-family: title;
+    margin-top: 7px;
+    padding: 0px;
+    text-shadow: 0px 0px 2px;
+   }
+   button{
+    height: 40px;
+    width: 200px;
+    border-radius: 20px;
+    border: none;
+    font-family: home-para;
+    font-size: 16px;
+   background-image: linear-gradient(to bottom right, #966125, #5a4102);
+   color: white;
+   box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.584);
+   margin-left: 80px;
+   margin-bottom: 40px;
+   margin-bottom: 50px;
+ }
+ button:hover{
+    background-image: linear-gradient(to bottom right, #c78334, #7c5a04);
+    cursor: pointer;
+ }
+ #last{
+    margin-bottom: 30px;
+ }
+ .profile-pic{
+            font-family: home-para;
+            color: white;
+            margin-left:50px;
+            margin-bottom:30px;
+        }
+</style>
+<body>
+    <center><h1 id="title">Advocate Sign Up</h1></center>
+    <div class="register" id="box">
+        
+   <form action="" method="post">
+    <p class="input-title">Username</p>
+    <input class="input-box" type="text" placeholder="Enter your Name" required>
+
+    <p class="input-title">Region</p>
+    <select class="input-box" required>
+        <option value="" disabled selected>Select your region</option>
+        <option value="Ariyalur">Ariyalur</option>
+        <option value="Chennai">Chennai</option>
+        <option value="Coimbatore">Coimbatore</option> <option value="Cuddalore">Cuddalore</option> <option value="Dharmapuri">Dharmapuri</option> <option value="Dindigul">Dindigul</option> <option value="Erode">Erode</option> <option value="Kallakurichi">Kallakurichi</option> <option value="Kanchipuram">Kanchipuram</option> <option value="Kanyakumari">Kanyakumari</option> <option value="Karur">Karur</option> <option value="Krishnagiri">Krishnagiri</option> <option value="Madurai">Madurai</option> <option value="Mayiladuthurai">Mayiladuthurai</option> <option value="Nagapattinam">Nagapattinam</option> <option value="Namakkal">Namakkal</option> <option value="Nilgiris">Nilgiris</option> <option value="Perambalur">Perambalur</option> <option value="Pudukkottai">Pudukkottai</option> <option value="Ramanathapuram">Ramanathapuram</option> <option value="Ranipet">Ranipet</option> <option value="Salem">Salem</option> <option value="Sivaganga">Sivaganga</option> <option value="Tenkasi">Tenkasi</option> <option value="Thanjavur">Thanjavur</option> <option value="Theni">Theni</option> <option value="Thoothukudi">Thoothukudi</option> <option value="Tiruchirappalli">Tiruchirappalli</option> <option value="Tirunelveli">Tirunelveli</option> <option value="Tirupathur">Tirupathur</option> <option value="Tiruppur">Tiruppur</option> <option value="Tiruvallur">Tiruvallur</option> <option value="Tiruvannamalai">Tiruvannamalai</option> <option value="Tiruvarur">Tiruvarur</option> <option value="Vellore">Vellore</option> <option value="Viluppuram">Viluppuram</option> <option value="Virudhunagar">Virudhunagar</option>
+    </select>
+
+    <p class="input-title">Email Id</p>
+    <input class="input-box" type="email" placeholder="Enter your Mail Id" required>
+
+    <p class="input-title">Phone Number</p>
+    <input type="tel" class="input-box" placeholder="Enter your Number" required>
+
+    <p class="input-title">Password</p>
+    <input type="password" class="input-box" placeholder="Enter your Password" required>
+
+    <p class="input-title">Password Re-confirmation</p>
+    <input type="password" class="input-box" placeholder="Reconfirm your Password" required>
+
+    <p class="input-title">Aadhar Number</p>
+    <input type="text" class="input-box" placeholder="Enter your Aadhar Number"required>
+
+    <p class="input-title">Bar Council Number</p>
+    <input type="text" class="input-box" placeholder="Enter your Bar Council Number" required>
+
+    <p class="input-title">Case Preferences</p>
+    <input type="text" class="input-box" placeholder="Preffered Cases" required>
+
+    <p class="input-title">Description</p>
+    <input type="text" class="input-box"  placeholder="Description" required>
+    <p class="input-title" >Upload your Display Picture</p>
+            <input class="profile-pic" id="last" type="file" accept="image/*">
+    <br>
+    <button type="submit">Submit</button>
+</form>
+    
+    </div>
+    <center><p id="nav">Click here to move back to <a href="">Home</a></p></center>
+</body>
+</html>

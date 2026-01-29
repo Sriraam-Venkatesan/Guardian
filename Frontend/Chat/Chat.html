@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guardian</title>
+</head>
+<style>
+     @font-face {
+            font-family: "home-para";
+            src: url("./cinzel.regular.otf");
+        }
+        @font-face {
+            font-family:"home-cred";
+            src: url("./NotoSerif-VariableFont_wdth\,wght.ttf");
+        }
+        @font-face {
+            font-family: "title";
+            src: url("./Cinzel-Bold.otf");
+        }
+    body{
+        height: 100vh; 
+        display: grid;
+        grid-template-rows: 1fr 20fr ;
+        margin: 0;
+        padding: 0;
+    }
+    #bar{
+        background-image: linear-gradient(to bottom right, #966125, #5a4102);
+        display: flex;
+        gap:325px;
+        color: white;
+        text-decoration: none;
+        box-shadow: 0px 0px 10px black;
+        position: relative;
+    z-index: 10;
+    }
+
+   #options{    
+        display: flex;
+        gap: 50px;
+        justify-content: center;
+        align-items: center;
+        font-family: "home-para";
+        font-size: 14px;
+        margin-right: 20px;
+
+    }
+     a{
+        color: white;
+        text-decoration: none;
+    }  
+   
+     #guardian{
+        font-family: "title";
+        margin-left: 100px ;
+        
+    }  
+    #desc{
+        display: flex;
+        flex-direction: row;
+        gap: 50px;
+    }
+   
+    #page{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        width: 99vw;
+    }
+   
+     #convo{
+        background-image: linear-gradient(to right, #00000035, rgb(255, 255, 255));
+        display: flex;
+        
+    }
+    #pfp{
+        height: 50px;
+        width:50px;
+        border-radius: 50% ;
+        margin-top: 12px;
+        margin-left: 12px;
+        display: inline;
+        box-shadow: 0px 0px 5px black;
+    }
+    #person{
+        height: 75px;
+        background-image: linear-gradient(to right, #00000035, rgb(255, 255, 255));
+        display: flex;
+        flex-direction: row;       
+        box-shadow: 0 6px 7px -2px rgba(0, 0, 0, 0.512);
+    }
+    #notify{
+        display: flex;
+        flex-direction:column ;
+        overflow: hidden;
+        
+    }
+
+  #name-messages{
+    display: flex;
+    flex-direction: column;
+    margin-left:20px;
+    margin-top: 12px;
+    gap:10px;
+    width:300px
+    
+  }
+  #name{
+    margin:0px;
+    font-family: "home-para";
+    font-size: 15px;
+    font-weight: lighter;
+    text-shadow: 0px 0px 1.5px black;
+  }
+  #message{
+    margin:0px;
+    font-family:"home-cred";
+    font-weight: bold;
+  }
+  #role{
+   margin-left: 265px;
+   display: flex;   
+   font-family:"home-cred";
+   font-size: 12px;
+   color: rgba(0, 0, 0, 0.581);
+  }
+  #texting{
+    height: 65px;
+    width:100%;
+    background-image: linear-gradient(to right, #00000035, rgb(255, 255, 255));
+    position: fixed;
+    top: 630px;
+    box-shadow: 0px 0px 6px black;
+  }
+  #messager{
+    margin-top: 16px;
+    margin-left: 10px;
+    width: 650px;
+    height: 25px;
+    font-family: font-cred;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+    padding-left: 10px;
+  }
+  #messanger:focus{
+    outline: none;
+    border: none;
+    box-shadow: 0px 0px 10px rgb(0, 0, 0);
+  }
+  #exchanges{
+    display: flex;
+    flex-direction: column;
+  }
+  #sender{
+   margin-left: 20px;
+   width: 400px;
+   margin-top: 20px;
+   background: #ffffff;
+   padding: 30px;
+   text-align: justify;
+   border-radius: 50px;
+   font-family:"home-cred";
+   font-size: 14px;
+   box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.421);
+  }
+  #sender-exchange{
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+#receiver{
+    margin-left: 280px;
+   width: 400px;
+   margin-top: 20px;
+  background-image: linear-gradient(to bottom right, #c68337, #9c7207);
+   padding: 30px;
+   text-align: justify;
+   border-radius: 50px;
+   font-family:"home-cred";
+   font-size: 14px;
+   box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.421);
+}
+button{
+            height: 29px;
+            width: 70px;
+            border-radius: 20px;
+            border: none;
+            font-family: home-para;
+            font-size: 10px;
+            background-image: linear-gradient(to bottom right, #966125, #5a4102);
+            color: white;
+            box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.584);
+            
+            
+        }
+
+        button:hover{
+            background-image: linear-gradient(to bottom right, #c78334, #7c5a04);
+            cursor: pointer;
+        }
+</style>
+<body>
+    <div class="navigation_bar" id="bar">
+        <div id="title"><a href=""><h1 id="guardian">Guardian</h1></a></div>
+        <div></div>
+        <div id="options">
+            <a href=""><h4>Profile</h4></a>
+            <a href=""><h4>Select Victim</h4></a>
+            <a href=""><h4>Chat</h4></a>
+            <a href=""><h4>Logout</h4></a>
+        </div>
+    </div>
+    <div id="page">
+        <div id="notify">
+
+            <div id="person">
+                <img id="pfp" src="./download.jpg" alt="">
+                <div id="name-messages">
+                <h3 id="name">The Guardian</h3>
+                <h5 id="message">+ New Messages</h5>
+                </div>
+                <div id="role"><p>Virtual Assistant</p></div>
+                </div>
+                
+                  
+                
+
+                 <div id="person">
+                <img id="pfp" src="./download.jpg" alt="">
+                <div id="name-messages">
+                <h3 id="name">Sriraam Venkatesan</h3>
+                <h5 id="message">+ New Messages</h5>
+                </div>
+                <div id="role"><p>User</p></div>
+                 </div>
+
+                    <div id="person">
+                <img id="pfp" src="./download.jpg" alt="">
+                <div id="name-messages">
+                <h3 id="name">Sethumathavan</h3>
+                <h5 id="message">+ New Messages</h5>
+                </div>
+                <div id="role"><p>Advocate</p></div>
+                 </div> 
+
+                <div id="person">
+                <img id="pfp" src="./download.jpg" alt="">
+                <div id="name-messages">
+                <h3 id="name">Vishnu Prasaath</h3>
+                <h5 id="message">+ New Messages</h5>
+                </div>
+                <div id="role"><p>User</p></div>                 
+                </div>
+
+                <div id="person">
+                <img id="pfp" src="./download.jpg" alt="">
+                <div id="name-messages">
+                <h3 id="name">Sriraam Venkatesan</h3>
+                <h5 id="message">+ New Messages</h5>
+                </div>
+                <div id="role"><p>User</p></div>
+                 </div>
+
+                    <div id="person">
+                <img id="pfp" src="./download.jpg" alt="">
+                <div id="name-messages">
+                <h3 id="name">Sethumathavan</h3>
+                <h5 id="message">+ New Messages</h5>
+                </div>
+                <div id="role"><p>Advocate</p></div>
+                 </div> 
+
+                <div id="person">
+                <img id="pfp" src="./download.jpg" alt="">
+                <div id="name-messages">
+                <h3 id="name">Vishnu Prasaath</h3>
+                <h5 id="message">+ New Messages</h5>
+                </div>
+                <div id="role"><p>User</p></div>                 
+                </div>
+
+                <div id="person">
+                <img id="pfp" src="./download.jpg" alt="">
+                <div id="name-messages">
+                <h3 id="name">Sriraam Venkatesan</h3>
+                <h5 id="message">+ New Messages</h5>
+                </div>
+                <div id="role"><p>User</p></div>
+                 </div>
+
+                    <div id="person">
+                <img id="pfp" src="./download.jpg" alt="">
+                <div id="name-messages">
+                <h3 id="name">Sethumathavan</h3>
+                <h5 id="message">+ New Messages</h5>
+                </div>
+                <div id="role"><p>Advocate</p></div>
+                 </div> 
+
+                <div id="person">
+                <img id="pfp" src="./download.jpg" alt="">
+                <div id="name-messages">
+                <h3 id="name">Vishnu Prasaath</h3>
+                <h5 id="message">+ New Messages</h5>
+                </div>
+                <div id="role"><p>User</p></div>                 
+                </div>
+                <div id="person">
+                <img id="pfp" src="./download.jpg" alt="">
+                <div id="name-messages">
+                <h3 id="name">Sriraam Venkatesan</h3>
+                <h5 id="message">+ New Messages</h5>
+                </div>
+                <div id="role"><p>User</p></div>
+                 </div>
+
+                    <div id="person">
+                <img id="pfp" src="./download.jpg" alt="">
+                <div id="name-messages">
+                <h3 id="name">Sethumathavan</h3>
+                <h5 id="message">+ New Messages</h5>
+                </div>
+                <div id="role"><p>Advocate</p></div>
+                 </div> 
+
+                <div id="person">
+                <img id="pfp" src="./download.jpg" alt="">
+                <div id="name-messages">
+                <h3 id="name">Vishnu Prasaath</h3>
+                <h5 id="message">+ New Messages</h5>
+                </div>
+                <div id="role"><p>User</p></div>                 
+                </div>
+                <div id="person">
+                <img id="pfp" src="./download.jpg" alt="">
+                <div id="name-messages">
+                <h3 id="name">Sriraam Venkatesan</h3>
+                <h5 id="message">+ New Messages</h5>
+                </div>
+                <div id="role"><p>User</p></div>
+                 </div>
+
+                    <div id="person">
+                <img id="pfp" src="./download.jpg" alt="">
+                <div id="name-messages">
+                <h3 id="name">Sethumathavan</h3>
+                <h5 id="message">+ New Messages</h5>
+                </div>
+                <div id="role"><p>Advocate</p></div>
+                 </div> 
+
+                <div id="person">
+                <img id="pfp" src="./download.jpg" alt="">
+                <div id="name-messages">
+                <h3 id="name">Vishnu Prasaath</h3>
+                <h5 id="message">+ New Messages</h5>
+                </div>
+                <div id="role"><p>User</p></div>                 
+                </div>
+                
+                
+        </div>
+        <div id="convo">
+            <div id="exchanges">
+                <div id="sender">
+                    <p id="sender-exchange">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Doloribus impedit, animi commodi mollitia aperiam recusandae pariatur. Odit soluta ab nulla quisquam veritatis eaque dolorum repellat? Quibusdam repellendus odit recusandae voluptatibus sint aspernatur aut natus officiis maiores alias in exercitationem, eveniet asperiores tempora. Assumenda a tempore saepe nam nemo neque atque quod quae fuga accusantium pariatur perferendis quia magnam ratione ab, earum similique hic corrupti, placeat rem ex aliquam! Perferendis architecto totam iure minima aliquam minus, blanditiis, nesciunt amet nemo asperiores fuga perspiciatis modi officiis ad, esse ipsa harum labore numquam recusandae sed libero soluta veniam hic. Neque inventore quaerat voluptatem.</p>
+                </div>
+                <div id="receiver">
+                    <p id="receiver-exchange">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Doloribus impedit, animi commodi mollitia aperiam recusandae pariatur. Odit soluta ab nulla quisquam veritatis eaque dolorum repellat? Quibusdam repellendus odit recusandae voluptatibus sint aspernatur aut natus officiis maiores alias in exercitationem, eveniet asperiores tempora. Assumenda a tempore saepe nam nemo neque atque quod quae fuga accusantium pariatur perferendis quia magnam ratione ab, earum similique hic corrupti, placeat rem ex aliquam! Perferendis architecto totam iure minima aliquam minus, blanditiis, nesciunt amet nemo asperiores fuga perspiciatis modi officiis ad, esse ipsa harum labore numquam recusandae sed libero soluta veniam hic. Neque inventore quaerat voluptatem.</p>
+                </div>
+                 <div id="sender">
+                    <p id="sender-exchange">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Doloribus impedit, animi commodi mollitia aperiam recusandae pariatur. Odit soluta ab nulla quisquam veritatis eaque dolorum repellat? Quibusdam repellendus odit recusandae voluptatibus sint aspernatur aut natus officiis maiores alias in exercitationem, eveniet asperiores tempora. Assumenda a tempore saepe nam nemo neque atque quod quae fuga accusantium pariatur perferendis quia magnam ratione ab, earum similique hic corrupti, placeat rem ex aliquam! Perferendis architecto totam iure minima aliquam minus, blanditiis, nesciunt amet nemo asperiores fuga perspiciatis modi officiis ad, esse ipsa harum labore numquam recusandae sed libero soluta veniam hic. Neque inventore quaerat voluptatem.</p>
+                </div>
+                <div id="receiver">
+                    <p id="receiver-exchange">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Doloribus impedit, animi commodi mollitia aperiam recusandae pariatur. Odit soluta ab nulla quisquam veritatis eaque dolorum repellat? Quibusdam repellendus odit recusandae voluptatibus sint aspernatur aut natus officiis maiores alias in exercitationem, eveniet asperiores tempora. Assumenda a tempore saepe nam nemo neque atque quod quae fuga accusantium pariatur perferendis quia magnam ratione ab, earum similique hic corrupti, placeat rem ex aliquam! Perferendis architecto totam iure minima aliquam minus, blanditiis, nesciunt amet nemo asperiores fuga perspiciatis modi officiis ad, esse ipsa harum labore numquam recusandae sed libero soluta veniam hic. Neque inventore quaerat voluptatem.</p>
+                </div>
+                 <div id="sender">
+                    <p id="sender-exchange">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Doloribus impedit, animi commodi mollitia aperiam recusandae pariatur. Odit soluta ab nulla quisquam veritatis eaque dolorum repellat? Quibusdam repellendus odit recusandae voluptatibus sint aspernatur aut natus officiis maiores alias in exercitationem, eveniet asperiores tempora. Assumenda a tempore saepe nam nemo neque atque quod quae fuga accusantium pariatur perferendis quia magnam ratione ab, earum similique hic corrupti, placeat rem ex aliquam! Perferendis architecto totam iure minima aliquam minus, blanditiis, nesciunt amet nemo asperiores fuga perspiciatis modi officiis ad, esse ipsa harum labore numquam recusandae sed libero soluta veniam hic. Neque inventore quaerat voluptatem.</p>
+                </div>
+                <div id="receiver">
+                    <p id="receiver-exchange">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Doloribus impedit, animi commodi mollitia aperiam recusandae pariatur. Odit soluta ab nulla quisquam veritatis eaque dolorum repellat? Quibusdam repellendus odit recusandae voluptatibus sint aspernatur aut natus officiis maiores alias in exercitationem, eveniet asperiores tempora. Assumenda a tempore saepe nam nemo neque atque quod quae fuga accusantium pariatur perferendis quia magnam ratione ab, earum similique hic corrupti, placeat rem ex aliquam! Perferendis architecto totam iure minima aliquam minus, blanditiis, nesciunt amet nemo asperiores fuga perspiciatis modi officiis ad, esse ipsa harum labore numquam recusandae sed libero soluta veniam hic. Neque inventore quaerat voluptatem.</p>
+                </div>
+            </div>
+            <div id="texting">
+                <input id="messager" type="text" placeholder="Message Here">
+                <button>Send</button>
+            </div>
+        </div>
+    </div>
+   
+</body>
+</html>

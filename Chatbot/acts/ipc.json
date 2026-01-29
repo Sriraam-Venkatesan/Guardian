@@ -1,0 +1,2365 @@
+{
+    "34": {
+        "title": "Acts done by several persons in furtherance of common intention",
+        "legal_text": "When a criminal act is done by several persons in furtherance of common intention, each is liable as if done alone.",
+        "punishment": "Same as main offence, as per Section 35",
+        "nature": "Not Applicable (Rule of Evidence)\nCognizable: Depends on main offence\nBailable: Depends on main offence\nCompoundable: Depends on main offence\nTriable by: Court triable for main offence",
+        "practical_explanation": "If multiple people plan and commit a crime together, every member is equally responsible for the act.",
+        "example": "If A and B plan to rob a bank and B shoots a guard, A is also liable for the shooting due to common intention.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "120B",
+                "description": "Criminal conspiracy"
+            },
+            {
+                "section": "149",
+                "description": "Unlawful assembly common object"
+            }
+        ],
+        "next_steps": [
+            "Establish lack of common intention if falsely accused.",
+            "Document your presence elsewhere (alibi).",
+            "Consult a criminal lawyer immediately."
+        ],
+        "conclusion": "Section 34 imposes joint liability for acts done with common intention.",
+        "disclaimer": "This is informational content only and not legal advice."
+    },
+    "107": {
+        "title": "Abetment of a thing",
+        "legal_text": "A person abets the doing of a thing who instigates, engages in conspiracy, or intentionally aids the act.",
+        "punishment": "Punishable under Section 109 if act is committed",
+        "nature": "Depends on offence abetted\nCognizable: Depends on main offence\nBailable: Depends on main offence\nCompoundable: Depends on main offence\nTriable by: Court triable for main offence",
+        "practical_explanation": "Encouraging, helping, or conspiring to commit a crime makes you an abettor, which is also a crime.",
+        "example": "A gives a knife to B knowing B intends to stab C. A is liable for abetment.",
+        "legal_risk_level": "🟡 Medium Risk",
+        "overlaps": [
+            {
+                "section": "109",
+                "description": "Punishment of abetment"
+            },
+            {
+                "section": "120B",
+                "description": "Criminal conspiracy"
+            }
+        ],
+        "next_steps": [
+            "Avoid associating with known offenders.",
+            "Do not provide assistance to illegal acts.",
+            "Consult lawyer if accused."
+        ],
+        "conclusion": "Abetment expands liability to those who help or encourage crimes.",
+        "disclaimer": "This is informational content only and not legal advice."
+    },
+    "109": {
+        "title": "Punishment of abetment",
+        "legal_text": "Punishment for abetment if the act is committed in consequence and no express provision is made for its punishment.",
+        "punishment": "Same as the offence abetted",
+        "nature": "Depends on offence abetted\nCognizable: Depends on main offence\nBailable: Depends on main offence\nCompoundable: Depends on main offence\nTriable by: Court triable for main offence",
+        "practical_explanation": "If you help someone commit a crime and they do it, you get the same punishment as them.",
+        "example": "A instigates B to break a window. B does it. A is punished as if A broke it.",
+        "legal_risk_level": "🟡 Medium Risk",
+        "overlaps": [
+            {
+                "section": "107",
+                "description": "Abetment"
+            }
+        ],
+        "next_steps": [
+            "Legal defense against abetment charge.",
+            "Prove lack of intent or participation."
+        ],
+        "conclusion": "Ensures abettors face consequences equal to perpetrators.",
+        "disclaimer": "This is informational content only and not legal advice."
+    },
+    "120B": {
+        "title": "Punishment of criminal conspiracy",
+        "legal_text": "Punishment for being party to a criminal conspiracy to commit an offence.",
+        "punishment": "Same as abetment of the offence (if serious); or up to 6 months/fine",
+        "nature": "Serious Offence: Cognizable / Non-bailable / Non-compoundable / Session Court\nOther: Non-cognizable / Bailable / Non-compoundable / Magistrate First Class",
+        "practical_explanation": "Agreeing with others to commit a crime is punishable, even if the crime doesn't happen.",
+        "example": "Three people meet and plan a bank heiist but represent caught before doing it.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "34",
+                "description": "Common intention"
+            },
+            {
+                "section": "107",
+                "description": "Abetment"
+            }
+        ],
+        "next_steps": [
+            "Prove lack of agreement or participation.",
+            "Withdraw from conspiracy early and report.",
+            "Hire serious legal counsel."
+        ],
+        "conclusion": "Conspiracy itself is a substantive offence punishable by law.",
+        "disclaimer": "This is informational content only and not legal advice."
+    },
+    "141": {
+        "title": "Unlawful assembly",
+        "legal_text": "An assembly of five or more persons is designated an 'unlawful assembly' if the common object is criminal.",
+        "punishment": "Punishable under Section 143",
+        "nature": "Definition (Punished under 143)\nCognizable\nBailable\nNon-compoundable\nTriable by Any Magistrate",
+        "practical_explanation": "A group of 5+ people gathering to commit a crime or disturb peace.",
+        "example": "A mob of 10 people gathering to block a public road illegally.",
+        "legal_risk_level": "🟡 Medium Risk",
+        "overlaps": [
+            {
+                "section": "143",
+                "description": "Punishment"
+            },
+            {
+                "section": "149",
+                "description": "Liability of member"
+            }
+        ],
+        "next_steps": [
+            "Leave the area immediately.",
+            "Do not join aggressive crowds.",
+            "Consult lawyer if booked."
+        ],
+        "conclusion": "Defines what constitutes an illegal group gathering.",
+        "disclaimer": "This is informational content only and not legal advice."
+    },
+    "143": {
+        "title": "Punishment for unlawful assembly",
+        "legal_text": "Whoever is a member of an unlawful assembly shall be punished.",
+        "punishment": "Imprisonment up to 6 months, or fine, or both",
+        "nature": "Cognizable\nBailable\nNon-compoundable\nTriable by Any Magistrate",
+        "practical_explanation": "Penalty for being part of an illegal mob.",
+        "example": "Simply being present in a riotous mob can get you arrested.",
+        "legal_risk_level": "🟡 Medium Risk",
+        "overlaps": [
+            {
+                "section": "141",
+                "description": "Definition of unlawful assembly"
+            }
+        ],
+        "next_steps": [
+            "Prove lack of common object.",
+            "Show evidence of innocent presence.",
+            "Seek bail immediately."
+        ],
+        "conclusion": "Punishes membership in unlawful assemblies.",
+        "disclaimer": "This is informational content only and not legal advice."
+    },
+    "146": {
+        "title": "Rioting",
+        "legal_text": "Whenever force or violence is used by an unlawful assembly, or by any member thereof, in prosecution of the common object.",
+        "punishment": "Punished under Section 147",
+        "nature": "Definition (Punished under 147)\nCognizable\nBailable\nNon-compoundable\nTriable by Any Magistrate",
+        "practical_explanation": "When an unlawful assembly turns violent.",
+        "example": "A protest turning violent where stones are thrown.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "147",
+                "description": "Punishment for rioting"
+            },
+            {
+                "section": "148",
+                "description": "Rioting armed with deadly weapon"
+            }
+        ],
+        "next_steps": [
+            "Leave violent scenes immediately.",
+            "Report to police if witness.",
+            "Consult lawyer for bail and defense."
+        ],
+        "conclusion": "Defines violence by a group as rioting.",
+        "disclaimer": "This is informational content only and not legal advice."
+    },
+    "153A": {
+        "title": "Promoting enmity between different groups",
+        "legal_text": "Promoting enmity between different groups on grounds of religion, race, place of birth, residence, language, etc.",
+        "punishment": "Imprisonment up to 3 years, or fine, or both",
+        "nature": "Cognizable\nNon-bailable\nNon-compoundable\nTriable by Magistrate of First Class",
+        "practical_explanation": "Hate speech or acts that cause tension between communities.",
+        "example": "A speech inciting violence against a specific religious group.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "295A",
+                "description": "Insulting religious beliefs"
+            },
+            {
+                "section": "505",
+                "description": "Public mischief"
+            }
+        ],
+        "next_steps": [
+            "Ensure communications are neutral.",
+            "Retract offensive statements if possible.",
+            "Seek anticipated bail if creating controversial content."
+        ],
+        "conclusion": "Strictly punishes communal hate speech.",
+        "disclaimer": "This is informational content only and not legal advice."
+    },
+    "166": {
+        "title": "Public servant disobeying law, with intent to cause injury to any person",
+        "legal_text": "Public servant knowingly disobeying any direction of the law as to the way he is to conduct himself, intending to cause injury.",
+        "punishment": "Simple imprisonment up to 1 year, or fine, or both",
+        "nature": "Non-cognizable\nBailable\nNon-compoundable\nTriable by Magistrate of First Class",
+        "practical_explanation": "When an official deliberately ignores the law to hurt someone.",
+        "example": "Investigation officer intentionally ignoring evidence to hurt the accused's case.",
+        "legal_risk_level": "🟡 Medium Risk",
+        "overlaps": [
+            {
+                "section": "167",
+                "description": "Public servant framing incorrect document"
+            }
+        ],
+        "next_steps": [
+            "File a complaint with superior officers.",
+            "Seek judicial remedy.",
+            "Document the violation."
+        ],
+        "conclusion": "Holds public servants accountable for malicious legal disobedience.",
+        "disclaimer": "This is informational content only and not legal advice."
+    },
+    "167": {
+        "title": "Public servant framing an incorrect document with intent to cause injury",
+        "legal_text": "Public servant framing or translating a document incorrectly with intent to cause injury.",
+        "punishment": "Imprisonment up to 3 years, or fine, or both",
+        "nature": "Cognizable\nBailable\nNon-compoundable\nTriable by Magistrate of First Class",
+        "practical_explanation": "Official faking or twisting records to harm someone.",
+        "example": "Police officer writing a false report to implicate an innocent person.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "193",
+                "description": "False evidence"
+            }
+        ],
+        "next_steps": [
+            "Challenge the document in court.",
+            "Gather independent evidence.",
+            "Prosecute the official."
+        ],
+        "conclusion": "Punishes falsification of official records.",
+        "disclaimer": "This is informational content only and not legal advice."
+    },
+    "174": {
+        "title": "Non-attendance in obedience to an order from public servant",
+        "legal_text": "Intentionally omitting to attend at a certain place and time in obedience to a summons or order.",
+        "punishment": "Simple imprisonment up to 1 month, or fine up to 500 rupees, or both",
+        "nature": "Non-cognizable\nBailable\nNon-compoundable\nTriable by Any Magistrate",
+        "practical_explanation": "Ignoring a subpoena or court summons.",
+        "example": "Failing to appear in court as a witness after being summoned.",
+        "legal_risk_level": "🟢 Low Risk",
+        "overlaps": [
+            {
+                "section": "172",
+                "description": "Absconding to avoid service"
+            }
+        ],
+        "next_steps": [
+            "Respond to summons immediately.",
+            "Provide valid reason for absence.",
+            "Consult lawyer."
+        ],
+        "conclusion": "Enforces compliance with legal summons.",
+        "disclaimer": "This is informational content only and not legal advice."
+    },
+    "177": {
+        "title": "Furnishing false information",
+        "legal_text": "Legally bound to furnish information to public servant, and furnishing false information.",
+        "punishment": "Simple imprisonment up to 6 months, or fine up to 1000 rupees, or both",
+        "nature": "Non-cognizable\nBailable\nNon-compoundable\nTriable by Any Magistrate",
+        "practical_explanation": "Lying to an official when required to tell the truth.",
+        "example": "giving a false address to a police officer when booked.",
+        "legal_risk_level": "🟡 Medium Risk",
+        "overlaps": [
+            {
+                "section": "181",
+                "description": "False statement on oath"
+            }
+        ],
+        "next_steps": [
+            "Correct the information ASAP.",
+            "Claim lack of knowledge if applicable.",
+            "Consult lawyer."
+        ],
+        "conclusion": "Mandates truthfulness in official disclosures.",
+        "disclaimer": "This is informational content only and not legal advice."
+    },
+    "186": {
+        "title": "Obstructing public servant in discharge of public functions",
+        "legal_text": "Voluntarily obstructing any public servant in the discharge of his public functions.",
+        "punishment": "Imprisonment up to 3 months, or fine up to 500 rupees, or both",
+        "nature": "Non-cognizable\nBailable\nNon-compoundable\nTriable by Any Magistrate",
+        "practical_explanation": "Stopping an official from doing their job.",
+        "example": "Physically blocking a health inspector from entering a building.",
+        "legal_risk_level": "🟡 Medium Risk",
+        "overlaps": [
+            {
+                "section": "353",
+                "description": "Assault to deter public servant"
+            }
+        ],
+        "next_steps": [
+            "Do not physically engage with officials.",
+            "Record interactions.",
+            "Seek legal help if charged."
+        ],
+        "conclusion": "Protects public servants from interference.",
+        "disclaimer": "This is informational content only and not legal advice."
+    },
+    "188": {
+        "title": "Disobedience to order duly promulgated by public servant",
+        "legal_text": "Disobedience to an order lawfully promulgated effectively directing likely to cause obstruction, annoyance or injury.",
+        "punishment": "Simple imprisonment up to 1 month, or fine, or both",
+        "nature": "Cognizable\nBailable\nNon-compoundable\nTriable by Any Magistrate",
+        "practical_explanation": "Ignoring official orders like Curfew or Section 144 orders.",
+        "example": "Gathering in a group when Section 144 is imposed.",
+        "legal_risk_level": "🟡 Medium Risk",
+        "overlaps": [],
+        "next_steps": [
+            "Obey promulgated orders.",
+            "Check validity of order.",
+            "Seek bail."
+        ],
+        "conclusion": "Enforces public order regulations.",
+        "disclaimer": "This is informational content only and not legal advice."
+    },
+    "191": {
+        "title": "Giving false evidence",
+        "legal_text": "Whoever being legally bound by an oath to state the truth, makes any statement which is false.",
+        "punishment": "Punished under Section 193 (Up to 7 years)",
+        "nature": "Defined in 191 (Punished in 193)\nNon-cognizable\nBailable\nNon-compoundable\nTriable by Magistrate of First Class",
+        "practical_explanation": "Perjury; lying under oath in court.",
+        "example": "Witness lying about seeing the accused at the crime scene.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "193",
+                "description": "Punishment for false evidence"
+            }
+        ],
+        "next_steps": [
+            "Stick to the truth in court.",
+            "Correct testimony before leaving stand if mistake made.",
+            "Hire defense lawyer."
+        ],
+        "conclusion": "Defines perjury.",
+        "disclaimer": "This is informational content only and not legal advice."
+    },
+    "211": {
+        "title": "False charge of offence made with intent to injure",
+        "legal_text": "Instituting criminal proceedings against a person knowing that there is no just or lawful ground.",
+        "punishment": "Imprisonment up to 2 years, or fine, or both (more if offence falsely charged is serious)",
+        "nature": "Non-cognizable\nBailable\nNon-compoundable\nTriable by Magistrate of First Class",
+        "practical_explanation": "Malicious prosecution; filing false cases to harass someone.",
+        "example": "Accusing a neighbor of theft knowing they didn't do it.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "182",
+                "description": "False information with intent to cause public servant to use power"
+            }
+        ],
+        "next_steps": [
+            "Defend the false case aggressively.",
+            "File counter-case for malicious prosecution.",
+            "Seek compensation."
+        ],
+        "conclusion": "Punishes misuse of the legal system.",
+        "disclaimer": "This is informational content only and not legal advice."
+    },
+    "217": {
+        "title": "Public servant disobeying direction of law with intent to save person from punishment",
+        "legal_text": "Public servant knowingly disobeying direction of law with intent to save person from punishment or property from forfeiture.",
+        "punishment": "Imprisonment up to 2 years, or fine, or both",
+        "nature": "Non-cognizable\nBailable\nNon-compoundable\nTriable by Any Magistrate",
+        "practical_explanation": "Official letting a criminal go or hiding their assets illegally.",
+        "example": "Police officer destroying evidence to help a friend.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "218",
+                "description": "Public servant framing incorrect record"
+            }
+        ],
+        "next_steps": [
+            "Report corruption.",
+            "Seek whistleblower protection.",
+            "Consult lawyer."
+        ],
+        "conclusion": "Prevents corruption and favoritism in law enforcement.",
+        "disclaimer": "This is informational content only and not legal advice."
+    },
+    "295A": {
+        "title": "Deliberate and malicious acts, intended to outrage religious feelings",
+        "legal_text": "Deliberate and malicious acts, intended to outrage religious feelings of any class by insulting its religion or religious beliefs.",
+        "punishment": "Imprisonment up to 3 years, or fine, or both",
+        "nature": "Cognizable\nNon-bailable\nNon-compoundable\nTriable by Magistrate of First Class",
+        "practical_explanation": "Intentionally insulting religion to provoke anger.",
+        "example": "Posting a derogatory image of a deity online.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "153A",
+                "description": "Promoting enmity"
+            }
+        ],
+        "next_steps": [
+            "Remove offensive content immediately.",
+            "Apologize publicly if unintended.",
+            "Prepare for serious legal battle."
+        ],
+        "conclusion": "Strictly punishes religious insults.",
+        "disclaimer": "This is informational content only and not legal advice."
+    },
+    "302": {
+        "title": "Punishment for murder",
+        "legal_text": "Whoever commits murder shall be punished with death, or imprisonment for life, and shall also be liable to fine.",
+        "punishment": "Death, or imprisonment for life, and fine",
+        "nature": "Cognizable\nNon-bailable\nNon-compoundable\nTriable by Court of Session",
+        "practical_explanation": "Intentional killing of a human being.",
+        "example": "Pre-planned killing of a business rival.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "300",
+                "description": "Murder definition"
+            },
+            {
+                "section": "304",
+                "description": "Culpable homicide not murder"
+            }
+        ],
+        "next_steps": [
+            "Surrender to police or court.",
+            "Do not make confessions without lawyer.",
+            "Hire top criminal defense counsel."
+        ],
+        "conclusion": "The most serious offence in IPC.",
+        "disclaimer": "This is informational content only and not legal advice."
+    },
+    "304": {
+        "title": "Punishment for culpable homicide not amounting to murder",
+        "legal_text": "Whoever commits culpable homicide not amounting to murder.",
+        "punishment": "Imprisonment for life, or imprisonment up to 10 years and fine",
+        "nature": "Cognizable\nNon-bailable\nNon-compoundable\nTriable by Court of Session",
+        "practical_explanation": "Killing someone without the high level of intent required for murder.",
+        "example": "Hitting someone in a fight which unintentionally causes death.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "302",
+                "description": "Murder"
+            },
+            {
+                "section": "304A",
+                "description": "Negligence causing death"
+            }
+        ],
+        "next_steps": [
+            "Argue lack of intent.",
+            "Prove provocation or self-defense.",
+            "Seek legal representation."
+        ],
+        "conclusion": "Punishes killing that falls short of murder.",
+        "disclaimer": "This is informational content only and not legal advice."
+    },
+    "307": {
+        "title": "Attempt to murder",
+        "legal_text": "Whoever does any act with such intention or knowledge, and under such circumstances that, if he by that act caused death, he would be guilty of murder.",
+        "punishment": "Imprisonment up to 10 years, and fine; if hurt is caused, life imprisonment",
+        "nature": "Cognizable\nNon-bailable\nNon-compoundable\nTriable by Court of Session",
+        "practical_explanation": "Trying to kill someone but failing.",
+        "example": "Shooting at someone but missing or causing minor injury.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "326",
+                "description": "Grievous hurt by weapon"
+            }
+        ],
+        "next_steps": [
+            "Surrender and seek bail (hard to get).",
+            "Prepare defense on lack of intent.",
+            "Consult senior lawyer."
+        ],
+        "conclusion": "Punishes the intent to kill as severely as killing in some cases.",
+        "disclaimer": "This is informational content only and not legal advice."
+    },
+    "323": {
+        "title": "Punishment for voluntarily causing hurt",
+        "legal_text": "Whoever, except in the case provided for by section 334, voluntarily causes hurt.",
+        "punishment": "Imprisonment up to 1 year, or fine up to 1000 rupees, or both",
+        "nature": "Non-cognizable\nBailable\nCompoundable\nTriable by Any Magistrate",
+        "practical_explanation": "Minor physical assault causing pain.",
+        "example": "Slapping or punching someone causing bruises.",
+        "legal_risk_level": "🟢 Low Risk",
+        "overlaps": [
+            {
+                "section": "324",
+                "description": "Hurt by weapon"
+            }
+        ],
+        "next_steps": [
+            "Seek compromise (Compoundable).",
+            "Apply for bail immediately.",
+            "Document injuries/lack thereof."
+        ],
+        "conclusion": "Basic punishment for physical assault.",
+        "disclaimer": "This is informational content only and not legal advice."
+    },
+    "324": {
+        "title": "Voluntarily causing hurt by dangerous weapons or means",
+        "legal_text": "Voluntarily causing hurt by means of any instrument for shooting, stabbing, cutting, etc.",
+        "punishment": "Imprisonment up to 3 years, or fine, or both",
+        "nature": "Cognizable\nNon-bailable\nNon-compoundable\nTriable by Any Magistrate",
+        "practical_explanation": "Assault using a weapon.",
+        "example": "Hitting someone with an iron rod.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "326",
+                "description": "Grievous hurt by weapon"
+            }
+        ],
+        "next_steps": [
+            "Seek anticipatory bail.",
+            "Prove lack of weapon usage.",
+            "Consult lawyer."
+        ],
+        "conclusion": "Aggravated form of hurt due to weapon use.",
+        "disclaimer": "This is informational content only and not legal advice."
+    },
+    "325": {
+        "title": "Punishment for voluntarily causing grievous hurt",
+        "legal_text": "Whoever, except in the case provided for by section 335, voluntarily causes grievous hurt.",
+        "punishment": "Imprisonment up to 7 years, and fine",
+        "nature": "Cognizable\nBailable\nCompoundable (with court permission)\nTriable by Any Magistrate",
+        "practical_explanation": "Causing serious injury like breaking a bone or losing an eye.",
+        "example": "Breaking someone's arm in a fight.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "320",
+                "description": "Grievous hurt definition"
+            }
+        ],
+        "next_steps": [
+            "Seek bail.",
+            "Try to compound with victim if allowed.",
+            "Prepare medical evidence."
+        ],
+        "conclusion": "Punishes serious physical injuries.",
+        "disclaimer": "This is informational content only and not legal advice."
+    },
+    "326": {
+        "title": "Voluntarily causing grievous hurt by dangerous weapons or means",
+        "legal_text": "Voluntarily causing grievous hurt by means of any instrument for shooting, stabbing, cutting, etc.",
+        "punishment": "Imprisonment for life, or imprisonment up to 10 years, and fine",
+        "nature": "Cognizable\nNon-bailable\nNon-compoundable\nTriable by Magistrate of First Class",
+        "practical_explanation": "Causing serious injury with a weapon.",
+        "example": "Stabbing someone causing permanent damage.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "307",
+                "description": "Attempt to murder"
+            }
+        ],
+        "next_steps": [
+            "Immediate legal defense required.",
+            "Bail is difficult; prepare strong grounds.",
+            "Challenge medical reports."
+        ],
+        "conclusion": "Very serious offence, often close to attempted murder.",
+        "disclaimer": "This is informational content only and not legal advice."
+    },
+    "354": {
+        "title": "Assault or criminal force to woman with intent to outrage her modesty",
+        "legal_text": "Assault or criminal force to any woman, intending to outrage or knowing it to be likely that he will thereby outrage her modesty.",
+        "punishment": "Imprisonment 1 to 5 years, and fine",
+        "nature": "Cognizable\nNon-bailable\nNon-compoundable\nTriable by Any Magistrate",
+        "practical_explanation": "Molestation; physical act disrespecting a woman.",
+        "example": "Groping or pulling a woman's clothes.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "354A",
+                "description": "Sexual harassment"
+            }
+        ],
+        "next_steps": [
+            "No compromise possible legally.",
+            "Seek bail from court.",
+            "Gather evidence of innocence."
+        ],
+        "conclusion": "Protects women's dignity.",
+        "disclaimer": "This is informational content only and not legal advice."
+    },
+    "354A": {
+        "title": "Sexual harassment and punishment for sexual harassment",
+        "legal_text": "Physical contact and advances involving unwelcome and explicit sexual overtures; or demand or request for sexual favors; or showing pornography; or making sexually coloured remarks.",
+        "punishment": "Imprisonment up to 3 years, or fine, or both (for physical contact/demand); Up to 1 year for others",
+        "nature": "Cognizable\nBailable\nNon-compoundable\nTriable by Any Magistrate",
+        "practical_explanation": "Unwanted sexual behavior.",
+        "example": "Asking for sexual favors at work.",
+        "legal_risk_level": "🟡 Medium Risk",
+        "overlaps": [
+            {
+                "section": "354",
+                "description": "Outraging modesty"
+            }
+        ],
+        "next_steps": [
+            "File complaint with internal committee (if workplace).",
+            "Report to police.",
+            "Preserve messages/proof."
+        ],
+        "conclusion": "Addresses sexual harassment specifically.",
+        "disclaimer": "This is informational content only and not legal advice."
+    },
+    "378": {
+        "title": "Theft",
+        "legal_text": "Whoever, intending to take dishonestly any movable property out of the possession of any person without that person's consent, moves that property in order to such taking, is said to commit theft.",
+        "punishment": "Punishment under Section 379",
+        "nature": "Definition (Punished under 379)\nCognizable\nNon-bailable\nCompoundable (with permission)\nTriable by Any Magistrate",
+        "practical_explanation": "Taking someone else's movable property without their permission dishonestly.",
+        "example": "Pickpocketing a wallet from someone's pocket.",
+        "legal_risk_level": "🟡 Medium Risk",
+        "overlaps": [
+            {
+                "section": "379",
+                "description": "Punishment for theft"
+            }
+        ],
+        "next_steps": [
+            "Report to police.",
+            "Gather proof of ownership."
+        ],
+        "conclusion": "Defines the act of theft.",
+        "disclaimer": "Informational only."
+    },
+    "379": {
+        "title": "Punishment for theft",
+        "legal_text": "Whoever commits theft shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+        "punishment": "Imprisonment up to 3 years, or fine, or both",
+        "nature": "Cognizable\nNon-bailable\nCompoundable (value < 2000 or with permission)\nTriable by Any Magistrate",
+        "practical_explanation": "The penalty for stealing.",
+        "example": "Stealing a bicycle.",
+        "legal_risk_level": "🟡 Medium Risk",
+        "overlaps": [
+            {
+                "section": "378",
+                "description": "Theft definition"
+            }
+        ],
+        "next_steps": [
+            "Apply for bail.",
+            "Seek compromise if possible."
+        ],
+        "conclusion": "Standard punishment for theft.",
+        "disclaimer": "Informational only."
+    },
+    "380": {
+        "title": "Theft in dwelling house, etc.",
+        "legal_text": "Theft in any building, tent or vessel, which building, tent or vessel is used as a human dwelling, or used for the custody of property.",
+        "punishment": "Imprisonment up to 7 years and fine",
+        "nature": "Cognizable\nNon-bailable\nNon-compoundable\nTriable by Any Magistrate",
+        "practical_explanation": "Stealing from inside a house or building used for storage/living.",
+        "example": "Burglar entering a home and stealing jewelry.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "454",
+                "description": "Lurking house-trespass"
+            }
+        ],
+        "next_steps": [
+            "Report immediately.",
+            "Do not touch crime scene."
+        ],
+        "conclusion": "More serious than simple theft due to violation of dwelling.",
+        "disclaimer": "Informational only."
+    },
+    "383": {
+        "title": "Extortion",
+        "legal_text": "Whoever intentionally puts any person in fear of any injury to that person, or to any other, and thereby dishonestly induces the person so put in fear to deliver to any person any property.",
+        "punishment": "Punishment under Section 384",
+        "nature": "Definition (Punished under 384)\nCognizable\nNon-bailable\nNon-compoundable\nTriable by Any Magistrate",
+        "practical_explanation": "Forcing someone to give money or property by threatening them.",
+        "example": "Threatening to publish compromising photos unless paid money.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "384",
+                "description": "Punishment for extortion"
+            }
+        ],
+        "next_steps": [
+            "Report blackmail.",
+            "Record threats."
+        ],
+        "conclusion": "Defines extortion.",
+        "disclaimer": "Informational only."
+    },
+    "384": {
+        "title": "Punishment for extortion",
+        "legal_text": "Whoever commits extortion shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+        "punishment": "Imprisonment up to 3 years, or fine, or both",
+        "nature": "Cognizable\nNon-bailable\nNon-compoundable\nTriable by Any Magistrate",
+        "practical_explanation": "Penalty for extortion.",
+        "example": "Blackmailing a shopkeeper for protection money.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "383",
+                "description": "Extortion definition"
+            }
+        ],
+        "next_steps": [
+            "Seek legal protection.",
+            "File FIR."
+        ],
+        "conclusion": "Punishes extortionists.",
+        "disclaimer": "Informational only."
+    },
+    "390": {
+        "title": "Robbery",
+        "legal_text": "In all robbery there is either theft or extortion. Theft is 'robbery' if, in order to the committing of the theft, or in committing the theft, or in carrying away or attempting to carry away property obtained by the theft, the offender, for that end, voluntarily causes or attempts to cause to any person death or hurt or wrongful restraint.",
+        "punishment": "Punishment under Section 392",
+        "nature": "Definition (Punished under 392)\nCognizable\nNon-bailable\nNon-compoundable\nTriable by Magistrate of First Class",
+        "practical_explanation": "Theft or extortion involving immediate violence or threat of death/hurt.",
+        "example": "Holding a knife to someone's throat to steal their watch.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "392",
+                "description": "Punishment for robbery"
+            }
+        ],
+        "next_steps": [
+            "Emergency police assistance.",
+            "Medical aid if hurt."
+        ],
+        "conclusion": "Robbery is an aggravated form of theft/extortion.",
+        "disclaimer": "Informational only."
+    },
+    "392": {
+        "title": "Punishment for robbery",
+        "legal_text": "Whoever commits robbery shall be punished with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine.",
+        "punishment": "Imprisonment up to 10 years (14 years if on highway between sunset and sunrise) and fine",
+        "nature": "Cognizable\nNon-bailable\nNon-compoundable\nTriable by Magistrate of First Class",
+        "practical_explanation": "Severe punishment for robbery.",
+        "example": "Mugging someone on the street.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "397",
+                "description": "Robbery with deadly weapon"
+            }
+        ],
+        "next_steps": [
+            "Immediate legal counsel.",
+            "No bail likely."
+        ],
+        "conclusion": "Serious felony punishment.",
+        "disclaimer": "Informational only."
+    },
+    "395": {
+        "title": "Punishment for dacoity",
+        "legal_text": "Whoever commits dacoity shall be punished with imprisonment for life, or with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine.",
+        "punishment": "Life imprisonment or up to 10 years and fine",
+        "nature": "Cognizable\nNon-bailable\nNon-compoundable\nTriable by Court of Session",
+        "practical_explanation": "Robbery committed by 5 or more people working together.",
+        "example": "Armed gang looting a bank.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "391",
+                "description": "Dacoity definition"
+            }
+        ],
+        "next_steps": [
+            "Surrender options.",
+            "Serious criminal defense needed."
+        ],
+        "conclusion": "One of the most serious property crimes.",
+        "disclaimer": "Informational only."
+    },
+    "403": {
+        "title": "Dishonest misappropriation of property",
+        "legal_text": "Whoever dishonestly misappropriates or converts to his own use any movable property.",
+        "punishment": "Imprisonment up to 2 years, or fine, or both",
+        "nature": "Non-cognizable\nBailable\nCompoundable (with permission)\nTriable by Any Magistrate",
+        "practical_explanation": "Keeping found property or using someone else's property for yourself dishonestly.",
+        "example": "Finding a gold ring and selling it instead of finding the owner.",
+        "legal_risk_level": "🟡 Medium Risk",
+        "overlaps": [
+            {
+                "section": "404",
+                "description": "Misappropriation from deceased person"
+            }
+        ],
+        "next_steps": [
+            "Return property.",
+            "Compromise with owner."
+        ],
+        "conclusion": "Punishes keeping what isn't yours.",
+        "disclaimer": "Informational only."
+    },
+    "405": {
+        "title": "Criminal breach of trust",
+        "legal_text": "Whoever, being in any manner entrusted with property, dishonestly misappropriates or converts to his own use that property.",
+        "punishment": "Punished under Section 406",
+        "nature": "Definition (Punished under 406)\nCognizable\nNon-bailable\nCompoundable (with permission)\nTriable by Magistrate of First Class",
+        "practical_explanation": "Betraying trust regarding money or property entrusted to you.",
+        "example": "An employee using company funds for personal vacation.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "406",
+                "description": "Punishment for breach of trust"
+            }
+        ],
+        "next_steps": [
+            "Audit records.",
+            "Seek legal advice."
+        ],
+        "conclusion": "Defines breach of trust.",
+        "disclaimer": "Informational only."
+    },
+    "406": {
+        "title": "Punishment for criminal breach of trust",
+        "legal_text": "Whoever commits criminal breach of trust shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+        "punishment": "Imprisonment up to 3 years, or fine, or both",
+        "nature": "Cognizable\nNon-bailable\nCompoundable (with permission)\nTriable by Magistrate of First Class",
+        "practical_explanation": "Penalty for violating trust with property.",
+        "example": "A cashier stealing money from the till.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "405",
+                "description": "Breach of trust definition"
+            }
+        ],
+        "next_steps": [
+            "Restitution of funds.",
+            "Bail application."
+        ],
+        "conclusion": "Punishes breach of trust.",
+        "disclaimer": "Informational only."
+    },
+    "415": {
+        "title": "Cheating",
+        "legal_text": "Whoever, by deceiving any person, fraudulently or dishonestly induces the person so deceived to deliver any property... constitutes cheating.",
+        "punishment": "Punishment under Section 417",
+        "nature": "Definition (Punished under 417)\nNon-cognizable\nBailable\nCompoundable\nTriable by Any Magistrate",
+        "practical_explanation": "Deceiving someone to get them to do something or give something.",
+        "example": "Selling a fake watch claiming it is real.",
+        "legal_risk_level": "🟡 Medium Risk",
+        "overlaps": [
+            {
+                "section": "417",
+                "description": "Punishment for cheating"
+            }
+        ],
+        "next_steps": [
+            "Stop deceptive practices.",
+            "Refund victim."
+        ],
+        "conclusion": "Defines the act of cheating.",
+        "disclaimer": "Informational only."
+    },
+    "417": {
+        "title": "Punishment for cheating",
+        "legal_text": "Whoever cheats shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.",
+        "punishment": "Imprisonment up to 1 year, or fine, or both",
+        "nature": "Non-cognizable\nBailable\nCompoundable\nTriable by Any Magistrate",
+        "practical_explanation": "Basic punishment for simple cheating.",
+        "example": "Lying about a product feature to make a sale.",
+        "legal_risk_level": "🟡 Medium Risk",
+        "overlaps": [
+            {
+                "section": "415",
+                "description": "Cheating definition"
+            }
+        ],
+        "next_steps": [
+            "Seek compromise.",
+            "Pay fine."
+        ],
+        "conclusion": "Punishes simple cheating.",
+        "disclaimer": "Informational only."
+    },
+    "420": {
+        "title": "Cheating and dishonestly inducing delivery of property",
+        "legal_text": "Whoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person... shall be punished.",
+        "punishment": "Imprisonment up to 7 years and fine",
+        "nature": "Cognizable\nNon-bailable\nCompoundable (with permission)\nTriable by Magistrate of First Class",
+        "practical_explanation": "Serious fraud where property is obtained by deception. The famous '420' offence.",
+        "example": "Taking money for a job promise and disappearing.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "415",
+                "description": "Cheating"
+            },
+            {
+                "section": "406",
+                "description": "Breach of trust"
+            }
+        ],
+        "next_steps": [
+            "Consult lawyer immediately.",
+            "Prepare evidence of lack of intent.",
+            "Apply for anticipatory bail."
+        ],
+        "conclusion": "The primary section for serious fraud and con-artistry.",
+        "disclaimer": "Informational only."
+    },
+    "425": {
+        "title": "Mischief",
+        "legal_text": "Whoever with intent to cause, or knowing that he is likely to cause, wrongful loss or damage to the public or to any person, causes the destruction of any property...",
+        "punishment": "Punishment under Section 426",
+        "nature": "Definition (Punished under 426)\nNon-cognizable\nBailable\nCompoundable\nTriable by Any Magistrate",
+        "practical_explanation": "Intentionally damaging property.",
+        "example": "Scratching someone's car key.",
+        "legal_risk_level": "🟢 Low Risk",
+        "overlaps": [
+            {
+                "section": "426",
+                "description": "Punishment for mischief"
+            }
+        ],
+        "next_steps": [
+            "Pay for damages.",
+            "Apologize."
+        ],
+        "conclusion": "Defines property damage.",
+        "disclaimer": "Informational only."
+    },
+    "426": {
+        "title": "Punishment for mischief",
+        "legal_text": "Whoever commits mischief shall be punished with imprisonment of either description for a term which may extend to three months, or with fine, or with both.",
+        "punishment": "Imprisonment up to 3 months, or fine, or both",
+        "nature": "Non-cognizable\nBailable\nCompoundable\nTriable by Any Magistrate",
+        "practical_explanation": "Penalty for minor property damage.",
+        "example": "Breaking a window pane.",
+        "legal_risk_level": "🟢 Low Risk",
+        "overlaps": [
+            {
+                "section": "425",
+                "description": "Mischief definition"
+            }
+        ],
+        "next_steps": [
+            "Compensate victim.",
+            "Resolve amicably."
+        ],
+        "conclusion": "Minor punishment for mischief.",
+        "disclaimer": "Informational only."
+    },
+    "441": {
+        "title": "Criminal trespass",
+        "legal_text": "Whoever enters into or upon property in the possession of another with intent to commit an offence or to intimidate, insult or annoy any person in possession of such property...",
+        "punishment": "Punishment under Section 447",
+        "nature": "Definition (Punished under 447)\nCognizable\nBailable\nCompoundable\nTriable by Any Magistrate",
+        "practical_explanation": "Entering someone's property without permission to cause trouble.",
+        "example": "Entering a neighbor's garden to threaten them.",
+        "legal_risk_level": "🟡 Medium Risk",
+        "overlaps": [
+            {
+                "section": "447",
+                "description": "Punishment for criminal trespass"
+            }
+        ],
+        "next_steps": [
+            "Leave property immediately.",
+            "Do not escalate."
+        ],
+        "conclusion": "Defines trespass.",
+        "disclaimer": "Informational only."
+    },
+    "447": {
+        "title": "Punishment for criminal trespass",
+        "legal_text": "Whoever commits criminal trespass shall be punished with imprisonment of either description for a term which may extend to three months, or with fine, or with both.",
+        "punishment": "Imprisonment up to 3 months, or fine, or both",
+        "nature": "Cognizable\nBailable\nCompoundable\nTriable by Any Magistrate",
+        "practical_explanation": "Penalty for trespass.",
+        "example": "Squatting on private land.",
+        "legal_risk_level": "🟢 Low Risk",
+        "overlaps": [
+            {
+                "section": "441",
+                "description": "Trespass definition"
+            }
+        ],
+        "next_steps": [
+            "Vacate premises.",
+            "Seek compromise."
+        ],
+        "conclusion": "Minor punishment for trespass.",
+        "disclaimer": "Informational only."
+    },
+    "448": {
+        "title": "Punishment for house-trespass",
+        "legal_text": "Whoever commits house-trespass shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.",
+        "punishment": "Imprisonment up to 1 year, or fine, or both",
+        "nature": "Cognizable\nBailable\nCompoundable\nTriable by Any Magistrate",
+        "practical_explanation": "Entering a house or building illegally.",
+        "example": "Entering someone's home without invitation to argue.",
+        "legal_risk_level": "🟡 Medium Risk",
+        "overlaps": [
+            {
+                "section": "442",
+                "description": "House-trespass definition"
+            }
+        ],
+        "next_steps": [
+            "Respect privacy.",
+            "Leave immediately."
+        ],
+        "conclusion": "Punishes trespass into dwellings.",
+        "disclaimer": "Informational only."
+    },
+    "463": {
+        "title": "Forgery",
+        "legal_text": "Whoever makes any false documents or false electronic record or part of a document or electronic record, with intent to cause damage or injury...",
+        "punishment": "Punishment under Section 465",
+        "nature": "Definition (Punished under 465)\nNon-cognizable\nBailable\nNon-compoundable\nTriable by Magistrate of First Class",
+        "practical_explanation": "Creating fake documents to deceive.",
+        "example": "Signing someone else's name on a check.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "465",
+                "description": "Punishment for forgery"
+            }
+        ],
+        "next_steps": [
+            "Destroy fake documents.",
+            "Do not use them."
+        ],
+        "conclusion": "Defines forgery.",
+        "disclaimer": "Informational only."
+    },
+    "464": {
+        "title": "Making a false document",
+        "legal_text": "A person is said to make a false document or false electronic record...",
+        "punishment": "Defined element of Forgery",
+        "nature": "Definition\nSee Section 465 for punishment",
+        "practical_explanation": "The act of creating the fake part of a document.",
+        "example": "Altering a date on a contract.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "463",
+                "description": "Forgery"
+            }
+        ],
+        "next_steps": [
+            "Legal consultation."
+        ],
+        "conclusion": "Core definition of document tampering.",
+        "disclaimer": "Informational only."
+    },
+    "465": {
+        "title": "Punishment for forgery",
+        "legal_text": "Whoever commits forgery shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+        "punishment": "Imprisonment up to 2 years, or fine, or both",
+        "nature": "Non-cognizable\nBailable\nNon-compoundable\nTriable by Magistrate of First Class",
+        "practical_explanation": "Penalty for creating fake documents.",
+        "example": "Faking a college degree certificate.",
+        "legal_risk_level": "🟡 Medium Risk",
+        "overlaps": [
+            {
+                "section": "468",
+                "description": "Forgery for cheating"
+            }
+        ],
+        "next_steps": [
+            "Seek legal advice.",
+            "Do not submit fake documents."
+        ],
+        "conclusion": "Basic forgery punishment.",
+        "disclaimer": "Informational only."
+    },
+    "468": {
+        "title": "Forgery for purpose of cheating",
+        "legal_text": "Whoever commits forgery, intending that the document or electronic record forged shall be used for the purpose of cheating.",
+        "punishment": "Imprisonment up to 7 years and fine",
+        "nature": "Cognizable\nNon-bailable\nNon-compoundable\nTriable by Magistrate of First Class",
+        "practical_explanation": "Forging a document specifically to cheat someone out of money/property.",
+        "example": "Forging a property deed to sell land that isn't yours.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "420",
+                "description": "Cheating"
+            },
+            {
+                "section": "465",
+                "description": "Forgery"
+            }
+        ],
+        "next_steps": [
+            "Serious legal defense needed."
+        ],
+        "conclusion": "Aggravated forgery punishment.",
+        "disclaimer": "Informational only."
+    },
+    "471": {
+        "title": "Using as genuine a forged document or electronic record",
+        "legal_text": "Whoever fraudulently or dishonestly uses as genuine any document or electronic record which he knows or has reason to believe to be a forged document.",
+        "punishment": "Same as if he had forged it (Section 465 or 468)",
+        "nature": "Cognizable\nBailable\nNon-compoundable\nTriable by Magistrate of First Class",
+        "practical_explanation": "Using a fake document knowing it is fake.",
+        "example": "Submitting a fake marksheet for a job application.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "465",
+                "description": "Forgery"
+            }
+        ],
+        "next_steps": [
+            "Do not submit verified fakes.",
+            "Withdraw application."
+        ],
+        "conclusion": "Using a forgery is as bad as making one.",
+        "disclaimer": "Informational only."
+    },
+    "498A": {
+        "title": "Husband or relative of husband of a woman subjecting her to cruelty",
+        "legal_text": "Whoever, being the husband or the relative of the husband of a woman, subjects such woman to cruelty shall be punished.",
+        "punishment": "Imprisonment up to 3 years and fine",
+        "nature": "Cognizable\nNon-bailable\nNon-compoundable\nTriable by Magistrate of First Class",
+        "practical_explanation": "Cruelty (physical or mental) by husband or in-laws, often related to dowry.",
+        "example": "Harassing a wife for not bringing enough dowry.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "304B",
+                "description": "Dowry Death"
+            },
+            {
+                "section": "406",
+                "description": "Breach of trust (Stridhan)"
+            }
+        ],
+        "next_steps": [
+            "Report to police/women's cell.",
+            "Seek legal protection.",
+            "File for domestic violence protection."
+        ],
+        "conclusion": "Specific law to protect married women from cruelty.",
+        "disclaimer": "Informational only."
+    },
+    "499": {
+        "title": "Defamation",
+        "legal_text": "Whoever, by words either spoken or intended to be read... makes or publishes any imputation concerning any person intending to harm... the reputation of such person.",
+        "punishment": "Punishment under Section 500",
+        "nature": "Definition (Punished under 500)\nNon-cognizable\nBailable\nCompoundable\nTriable by Magistrate of First Class",
+        "practical_explanation": "Damaging someone's reputation via speech or writing.",
+        "example": "Writing a false article claiming someone is a thief.",
+        "legal_risk_level": "🟡 Medium Risk",
+        "overlaps": [
+            {
+                "section": "500",
+                "description": "Punishment for defamation"
+            }
+        ],
+        "next_steps": [
+            "Issue retraction/apology.",
+            "Cease defamatory statements."
+        ],
+        "conclusion": "Defines civil and criminal defamation.",
+        "disclaimer": "Informational only."
+    },
+    "500": {
+        "title": "Punishment for defamation",
+        "legal_text": "Whoever defames another shall be punished with simple imprisonment for a term which may extend to two years, or with fine, or with both.",
+        "punishment": "Simple imprisonment up to 2 years, or fine, or both",
+        "nature": "Non-cognizable\nBailable\nCompoundable\nTriable by Magistrate of First Class",
+        "practical_explanation": "Penalty for ruining someone's reputation.",
+        "example": "Conviction for publishing false rumors.",
+        "legal_risk_level": "🟡 Medium Risk",
+        "overlaps": [
+            {
+                "section": "499",
+                "description": "Defamation definition"
+            }
+        ],
+        "next_steps": [
+            "Seek compromise.",
+            "Challenge truth of statement."
+        ],
+        "conclusion": "Punishment for defamation.",
+        "disclaimer": "Informational only."
+    },
+    "503": {
+        "title": "Criminal intimidation",
+        "legal_text": "Whoever threatens another with any injury to his person, reputation or property... with intent to cause alarm to that person.",
+        "punishment": "Punishment under Section 506",
+        "nature": "Definition (Punished under 506)\nNon-cognizable\nBailable\nCompoundable\nTriable by Any Magistrate",
+        "practical_explanation": "Threatening someone to frighten them or make them do something.",
+        "example": "Threatening to beat someone up if they don't withdraw a complaint.",
+        "legal_risk_level": "🟡 Medium Risk",
+        "overlaps": [
+            {
+                "section": "506",
+                "description": "Punishment for criminal intimidation"
+            }
+        ],
+        "next_steps": [
+            "Report threats.",
+            "Seek protection."
+        ],
+        "conclusion": "Defines intimidation.",
+        "disclaimer": "Informational only."
+    },
+    "504": {
+        "title": "Intentional insult with intent to provoke breach of the peace",
+        "legal_text": "Whoever intentionally insults, and thereby gives provocation to any person, intending or knowing it to be likely that such provocation will cause him to break the public peace.",
+        "punishment": "Imprisonment up to 2 years, or fine, or both",
+        "nature": "Non-cognizable\nBailable\nCompoundable\nTriable by Any Magistrate",
+        "practical_explanation": "Abusing someone firmly to provoke a fight.",
+        "example": "Using abusive language in a public argument.",
+        "legal_risk_level": "🟡 Medium Risk",
+        "overlaps": [
+            {
+                "section": "506",
+                "description": "Criminal intimidation"
+            }
+        ],
+        "next_steps": [
+            "De-escalate situation.",
+            "Walk away."
+        ],
+        "conclusion": "Punishes provocative insults.",
+        "disclaimer": "Informational only."
+    },
+    "506": {
+        "title": "Punishment for criminal intimidation",
+        "legal_text": "Whoever commits the offence of criminal intimidation shall be punished... If threat be to cause death or grievous hurt, etc.",
+        "punishment": "Imprisonment up to 2 years (Simple); Up to 7 years (Aggravated - death threat)",
+        "nature": "Part 1: Non-cognizable / Bailable\nPart 2 (Death threat): Cognizable / Non-bailable\nCompoundable\nTriable by Magistrate of First Class",
+        "practical_explanation": "Punishment for threatening someone. Severity depends on the threat (e.g. death threat is serious).",
+        "example": "Threatening to kill someone.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "503",
+                "description": "Intimidation definition"
+            }
+        ],
+        "next_steps": [
+            "Report death threats immediately.",
+            "Record evidence."
+        ],
+        "conclusion": "Punishes threats, especially death threats.",
+        "disclaimer": "Informational only."
+    },
+    "509": {
+        "title": "Word, gesture or act intended to insult the modesty of a woman",
+        "legal_text": "Whoever, intending to insult the modesty of any woman, utters any word, makes any sound or gesture, or exhibits any object...",
+        "punishment": "Simple imprisonment up to 3 years and fine",
+        "nature": "Cognizable\nBailable\nCompoundable (with permission)\nTriable by Any Magistrate",
+        "practical_explanation": "Verbal or gestural harassment of a woman.",
+        "example": "Making lewd comments or gestures at a woman.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "354A",
+                "description": "Sexual harassment"
+            }
+        ],
+        "next_steps": [
+            "Report harassment.",
+            "Confront responsibly."
+        ],
+        "conclusion": "Protects women from verbal/gestural insults.",
+        "disclaimer": "Informational only."
+    },
+    "511": {
+        "title": "Punishment for attempting to commit offences punishable with imprisonment for life or other imprisonment",
+        "legal_text": "Whoever attempts to commit an offence punishable by this Code with imprisonment for life or imprisonment... and in such attempt does any act towards the commission of the offence.",
+        "punishment": "Up to half the imprisonment term of the main offence",
+        "nature": "Same as the offence attempted (usually)\nCognizable / Bailable (varies)\nTriable by court triable for main offence",
+        "practical_explanation": "If you try to commit a crime but fail, you can still be punished for the attempt.",
+        "example": "Checking a pocket to steal property but finding it empty (Attempt to theft).",
+        "legal_risk_level": "🟡 Medium Risk",
+        "overlaps": [
+            {
+                "section": "307",
+                "description": "Attempt to murder (specific)"
+            }
+        ],
+        "next_steps": [
+            "Seek legal advice.",
+            "Do not proceed with crime."
+        ],
+        "conclusion": "General provision for punishment of attempts.",
+        "disclaimer": "Informational only."
+    },
+    "279": {
+        "title": "Rash driving or riding on a public way",
+        "legal_text": "Whoever drives any vehicle, or rides, on any public way in a manner so rash or negligent as to endanger human life...",
+        "punishment": "Imprisonment up to 6 months, or fine up to 1000 rupees, or both",
+        "nature": "Cognizable\nBailable\nCompoundable (with permission)\nTriable by Any Magistrate",
+        "practical_explanation": "Driving recklessly and endangering others.",
+        "example": "Speeding through a crowded market.",
+        "legal_risk_level": "🟡 Medium Risk",
+        "overlaps": [
+            {
+                "section": "304A",
+                "description": "Causing death by negligence"
+            }
+        ],
+        "next_steps": [
+            "Drive carefully.",
+            "Appear in court if summons received."
+        ],
+        "conclusion": "Standard road accident section.",
+        "disclaimer": "Informational only."
+    },
+    "304A": {
+        "title": "Causing death by negligence",
+        "legal_text": "Whoever causes the death of any person by doing any rash or negligent act not amounting to culpable homicide.",
+        "punishment": "Imprisonment up to 2 years, or fine, or both",
+        "nature": "Cognizable\nBailable\nNon-compoundable\nTriable by Magistrate of First Class",
+        "practical_explanation": "Accidental death caused by carelessness (e.g. road accident).",
+        "example": "Accidentally running over a pedestrian.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "279",
+                "description": "Rash driving"
+            }
+        ],
+        "next_steps": [
+            "Stay at scene (unless unsafe).",
+            "Report to police.",
+            "Seek bail."
+        ],
+        "conclusion": "Punishes fatal accidents primarily.",
+        "disclaimer": "Informational only."
+    },
+    "304B": {
+        "title": "Dowry death",
+        "legal_text": "Where the death of a woman is caused by any burns or bodily injury or occurs otherwise than under normal circumstances within seven years of her marriage...",
+        "punishment": "Imprisonment for not less than 7 years but which may extend to life",
+        "nature": "Cognizable\nNon-bailable\nNon-compoundable\nTriable by Court of Session",
+        "practical_explanation": "Death of a woman within 7 years of marriage due to harassment for dowry.",
+        "example": "Bride burning or suicide due to dowry demands.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "498A",
+                "description": "Cruelty"
+            }
+        ],
+        "next_steps": [
+            "Immediate arrest likely.",
+            "Very serious charge."
+        ],
+        "conclusion": "Stringent law against dowry-related deaths.",
+        "disclaimer": "Informational only."
+    },
+    "147": {
+        "title": "Punishment for rioting",
+        "legal_text": "Whoever is guilty of rioting, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+        "punishment": "Imprisonment up to 2 years, or fine, or both",
+        "nature": "Cognizable\nBailable\nNon-compoundable\nTriable by Any Magistrate",
+        "practical_explanation": "Penalty for participating in a riot.",
+        "example": "Being part of a violent mob.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "146",
+                "description": "Rioting definition"
+            }
+        ],
+        "next_steps": [
+            "Leave riot area.",
+            "Seek bail."
+        ],
+        "conclusion": "Punishes mob violence.",
+        "disclaimer": "Informational only."
+    },
+    "148": {
+        "title": "Rioting, armed with deadly weapon",
+        "legal_text": "Whoever is guilty of rioting, being armed with a deadly weapon...",
+        "punishment": "Imprisonment up to 3 years, or fine, or both",
+        "nature": "Cognizable\nNon-bailable\nNon-compoundable\nTriable by Magistrate of First Class",
+        "practical_explanation": "Rioting while carrying weapons like knives, swords, or guns.",
+        "example": "Mob violence with swords.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "147",
+                "description": "Rioting"
+            }
+        ],
+        "next_steps": [
+            "Immediate arrest likely.",
+            "Hire criminal lawyer."
+        ],
+        "conclusion": "Aggravated form of rioting.",
+        "disclaimer": "Informational only."
+    },
+    "149": {
+        "title": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+        "legal_text": "If an offence is committed by any member of an unlawful assembly in prosecution of the common object of that assembly, every person who... is a member of the same assembly, is guilty of that offence.",
+        "punishment": "Same as the offence committed",
+        "nature": "Cognizable (if offence is)\nBailable (if offence is)\nNon-compoundable\nTriable by Court triable for main offence",
+        "practical_explanation": "Vicarious liability: If one member of the mob kills someone, everyone can be charged with murder.",
+        "example": "Being in a mob where someone shoots a police officer.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "141",
+                "description": "Unlawful assembly"
+            }
+        ],
+        "next_steps": [
+            "Withdraw from assembly.",
+            "Prove lack of common object."
+        ],
+        "conclusion": "Expands liability to all group members.",
+        "disclaimer": "Informational only."
+    },
+    "160": {
+        "title": "Punishment for committing affray",
+        "legal_text": "Whoever commits an affray, shall be punished with imprisonment of either description for a term which may extend to one month, or with fine, or with both.",
+        "punishment": "Imprisonment up to 1 month, or fine, or both",
+        "nature": "Cognizable\nBailable\nNon-compoundable\nTriable by Any Magistrate",
+        "practical_explanation": "Fighting in a public place disturbing peace.",
+        "example": "Two people fighting on a street corner.",
+        "legal_risk_level": "🟢 Low Risk",
+        "overlaps": [
+            {
+                "section": "159",
+                "description": "Affray definition"
+            }
+        ],
+        "next_steps": [
+            "Stop fighting.",
+            "Pay fine."
+        ],
+        "conclusion": "Minor public order offence.",
+        "disclaimer": "Informational only."
+    },
+    "182": {
+        "title": "False information, with intent to cause public servant to use his lawful power to the injury of another person",
+        "legal_text": "Whoever gives to any public servant any information which he knows or believes to be false...",
+        "punishment": "Imprisonment up to 6 months, or fine, or both",
+        "nature": "Non-cognizable\nBailable\nCompoundable (with permission)\nTriable by Any Magistrate",
+        "practical_explanation": "Misleading police or officials to harass someone.",
+        "example": "Filing a false complaint to get police to raid a neighbor.",
+        "legal_risk_level": "🟡 Medium Risk",
+        "overlaps": [
+            {
+                "section": "211",
+                "description": "False charge"
+            }
+        ],
+        "next_steps": [
+            "Retract false info.",
+            "Apologize."
+        ],
+        "conclusion": "Punishes misleading public servants.",
+        "disclaimer": "Informational only."
+    },
+    "201": {
+        "title": "Causing disappearance of evidence of offence, or giving false information to screen offender",
+        "legal_text": "Whoever, knowing that an offence has been committed, causes any evidence... to disappear...",
+        "punishment": "Depends on the offence (7 years, 3 years, etc.)",
+        "nature": "Cognizable (if offence is)\nBailable (generally)\nNon-compoundable\nTriable by Court of Session or Magistrate",
+        "practical_explanation": "Destroying evidence or lying to protect a criminal.",
+        "example": "Cleaning bloodstains from a crime scene.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "302",
+                "description": "Murder"
+            }
+        ],
+        "next_steps": [
+            "Do not tamper with crime scenes.",
+            "Report truthfully."
+        ],
+        "conclusion": "Punishes obstruction of justice.",
+        "disclaimer": "Informational only."
+    },
+    "212": {
+        "title": "Harbouring offender",
+        "legal_text": "Whenever an offence has been committed, whoever harbours or conceals a person whom he knows or has reason to believe to be the offender.",
+        "punishment": "Depends on offence (5 years, 3 years, etc.)",
+        "nature": "Cognizable (if offence is)\nBailable (generally)\nNon-compoundable\nTriable by Magistrate of First Class",
+        "practical_explanation": "Hiding a criminal from the police.",
+        "example": "Letting a fugitive stay in your house.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "216",
+                "description": "Harbouring escaped offender"
+            }
+        ],
+        "next_steps": [
+            "Do not harbor criminals.",
+            "Inform police."
+        ],
+        "conclusion": "Punishes aiding fugitives.",
+        "disclaimer": "Informational only."
+    },
+    "268": {
+        "title": "Public nuisance",
+        "legal_text": "A person is guilty of a public nuisance who does any act or is guilty of an illegal omission which causes any common injury, danger or annoyance to the public...",
+        "punishment": "Punishment under Section 290",
+        "nature": "Definition (Punished under 290)\nNon-cognizable\nBailable\nCompoundable\nTriable by Any Magistrate",
+        "practical_explanation": "Doing something that annoys or endangers the general public.",
+        "example": "Blocking a public road with construction material.",
+        "legal_risk_level": "🟢 Low Risk",
+        "overlaps": [
+            {
+                "section": "290",
+                "description": "Punishment for nuisance"
+            }
+        ],
+        "next_steps": [
+            "Remove nuisance.",
+            "Comply with orders."
+        ],
+        "conclusion": "Defines public nuisance.",
+        "disclaimer": "Informational only."
+    },
+    "269": {
+        "title": "Negligent act likely to spread infection of disease dangerous to life",
+        "legal_text": "Whoever unlawfully or negligently does any act which is, and which he knows or has reason to believe to be, likely to spread the infection of any disease dangerous to life.",
+        "punishment": "Imprisonment up to 6 months, or fine, or both",
+        "nature": "Cognizable\nBailable\nNon-compoundable\nTriable by Any Magistrate",
+        "practical_explanation": "Carelessness that could spread a deadly disease.",
+        "example": "Breaking quarantine while infected with COVID-19.",
+        "legal_risk_level": "🟡 Medium Risk",
+        "overlaps": [
+            {
+                "section": "270",
+                "description": "Malignant act to spread disease"
+            }
+        ],
+        "next_steps": [
+            "Follow health guidelines.",
+            "Isolate."
+        ],
+        "conclusion": "Public health protection law.",
+        "disclaimer": "Informational only."
+    },
+    "294": {
+        "title": "Obscene acts and songs",
+        "legal_text": "Whoever, to the annoyance of others, does any obscene act in any public place, or sings, recites or utters any obscene song...",
+        "punishment": "Imprisonment up to 3 months, or fine, or both",
+        "nature": "Cognizable\nBailable\nNon-compoundable\nTriable by Any Magistrate",
+        "practical_explanation": "Doing or saying dirty things in public.",
+        "example": "Singing lewd songs near a school.",
+        "legal_risk_level": "🟢 Low Risk",
+        "overlaps": [
+            {
+                "section": "292",
+                "description": "Sale of obscene books"
+            }
+        ],
+        "next_steps": [
+            "Stop behavior.",
+            "Apologize."
+        ],
+        "conclusion": "Punishes public obscenity.",
+        "disclaimer": "Informational only."
+    },
+    "319": {
+        "title": "Hurt",
+        "legal_text": "Whoever causes bodily pain, disease or infirmity to any person is said to cause hurt.",
+        "punishment": "Punishment under Section 323",
+        "nature": "Definition (Punished under 323)\nNon-cognizable\nBailable\nCompoundable\nTriable by Any Magistrate",
+        "practical_explanation": "Causing pain or minor injury.",
+        "example": "A slap or punch.",
+        "legal_risk_level": "🟢 Low Risk",
+        "overlaps": [
+            {
+                "section": "323",
+                "description": "Punishment for hurt"
+            }
+        ],
+        "next_steps": [
+            "Avoid violence.",
+            "Compromise."
+        ],
+        "conclusion": "Defines simple hurt.",
+        "disclaimer": "Informational only."
+    },
+    "320": {
+        "title": "Grievous hurt",
+        "legal_text": "Designates 8 kinds of hurt as grievous: Emasculation, loss of sight/hearing, loss of limb, fracture, dangerous hurt.",
+        "punishment": "Punishment under Section 325",
+        "nature": "Definition (Punished under 325)\nCognizable\nBailable\nCompoundable (with permission)\nTriable by Any Magistrate",
+        "practical_explanation": "Severe injuries like broken bones, permanent damage.",
+        "example": "Breaking a leg.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "325",
+                "description": "Punishment for grievous hurt"
+            }
+        ],
+        "next_steps": [
+            "Report immediately.",
+            "Get medical proof."
+        ],
+        "conclusion": "Defines serious injuries.",
+        "disclaimer": "Informational only."
+    },
+    "332": {
+        "title": "Voluntarily causing hurt to deter public servant from his duty",
+        "legal_text": "Whoever voluntarily causes hurt to any person being a public servant in the discharge of his duty...",
+        "punishment": "Imprisonment up to 3 years, or fine, or both",
+        "nature": "Cognizable\nNon-bailable\nNon-compoundable\nTriable by Magistrate of First Class",
+        "practical_explanation": "Hitting a police officer or official who is working.",
+        "example": "Slapping a traffic cop.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "353",
+                "description": "Assault on public servant"
+            }
+        ],
+        "next_steps": [
+            "Do not resist arrest.",
+            "Apologize."
+        ],
+        "conclusion": "Protects public servants from violence.",
+        "disclaimer": "Informational only."
+    },
+    "339": {
+        "title": "Wrongful restraint",
+        "legal_text": "Whoever voluntarily obstructs any person so as to prevent that person from proceeding in any direction in which that person has a right to proceed.",
+        "punishment": "Punishment under Section 341",
+        "nature": "Definition (Punished under 341)\nCognizable\nBailable\nCompoundable\nTriable by Any Magistrate",
+        "practical_explanation": "Stopping someone from going where they want to go.",
+        "example": "Blocking someone's path on a sidewalk.",
+        "legal_risk_level": "🟢 Low Risk",
+        "overlaps": [
+            {
+                "section": "341",
+                "description": "Punishment for wrongful restraint"
+            }
+        ],
+        "next_steps": [
+            "Move aside.",
+            "Call police if blocked."
+        ],
+        "conclusion": "Defines restraint.",
+        "disclaimer": "Informational only."
+    },
+    "341": {
+        "title": "Punishment for wrongful restraint",
+        "legal_text": "Whoever wrongfully restrains any person shall be punished with simple imprisonment for a term which may extend to one month, or with fine, or with both.",
+        "punishment": "Simple imprisonment up to 1 month, or fine, or both",
+        "nature": "Cognizable\nBailable\nCompoundable\nTriable by Any Magistrate",
+        "practical_explanation": "Penalty for blocking someone's way.",
+        "example": "Preventing a neighbor from leaving their house.",
+        "legal_risk_level": "🟢 Low Risk",
+        "overlaps": [
+            {
+                "section": "339",
+                "description": "Wrongful restraint"
+            }
+        ],
+        "next_steps": [
+            "File complaint.",
+            "Seek legal remedy."
+        ],
+        "conclusion": "Minor punishment for restraint.",
+        "disclaimer": "Informational only."
+    },
+    "340": {
+        "title": "Wrongful confinement",
+        "legal_text": "Whoever wrongfully restrains any person in such a manner as to prevent that person from proceedings beyond certain circumscribing limits.",
+        "punishment": "Punishment under Section 342",
+        "nature": "Definition (Punished under 342)\nCognizable\nBailable\nCompoundable\nTriable by Any Magistrate",
+        "practical_explanation": "Locking someone in a room or space against their will.",
+        "example": "Locking someone in a bathroom.",
+        "legal_risk_level": "🟡 Medium Risk",
+        "overlaps": [
+            {
+                "section": "342",
+                "description": "Punishment for wrongful confinement"
+            }
+        ],
+        "next_steps": [
+            "Call for help.",
+            "Report kidnapping/confinement."
+        ],
+        "conclusion": "Defines confinement.",
+        "disclaimer": "Informational only."
+    },
+    "342": {
+        "title": "Punishment for wrongful confinement",
+        "legal_text": "Whoever wrongfully confines any person shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.",
+        "punishment": "Imprisonment up to 1 year, or fine, or both",
+        "nature": "Cognizable\nBailable\nCompoundable\nTriable by Any Magistrate",
+        "practical_explanation": "Penalty for locking someone up.",
+        "example": "Unlawful detention by a security guard.",
+        "legal_risk_level": "🟡 Medium Risk",
+        "overlaps": [
+            {
+                "section": "340",
+                "description": "Wrongful confinement"
+            }
+        ],
+        "next_steps": [
+            "Seek damages.",
+            "File FIR."
+        ],
+        "conclusion": "Punishes illegal confinement.",
+        "disclaimer": "Informational only."
+    },
+    "351": {
+        "title": "Assault",
+        "legal_text": "Whoever makes any gesture, or any preparation intending or knowing it to be likely that such gesture... will cause any person present to apprehend that he... is about to use criminal force.",
+        "punishment": "Punishment under Section 352",
+        "nature": "Definition (Punished under 352)\nNon-cognizable\nBailable\nCompoundable\nTriable by Any Magistrate",
+        "practical_explanation": "Threatening gesture making someone fear immediate violence.",
+        "example": "Raising a fist as if to hit someone.",
+        "legal_risk_level": "🟢 Low Risk",
+        "overlaps": [
+            {
+                "section": "352",
+                "description": "Punishment for assault"
+            }
+        ],
+        "next_steps": [
+            "Maintain distance.",
+            "Report threat."
+        ],
+        "conclusion": "Defines assault (fear of battery).",
+        "disclaimer": "Informational only."
+    },
+    "352": {
+        "title": "Punishment for assault or criminal force otherwise than on grave provocation",
+        "legal_text": "Whoever assaults or uses criminal force to any person otherwise than on grave and sudden provocation...",
+        "punishment": "Imprisonment up to 3 months, or fine, or both",
+        "nature": "Non-cognizable\nBailable\nCompoundable\nTriable by Any Magistrate",
+        "practical_explanation": "Penalty for assault.",
+        "example": "Pushing someone.",
+        "legal_risk_level": "🟢 Low Risk",
+        "overlaps": [
+            {
+                "section": "351",
+                "description": "Assault"
+            }
+        ],
+        "next_steps": [
+            "File complaint.",
+            "Seek compromise."
+        ],
+        "conclusion": "Punishes minor force.",
+        "disclaimer": "Informational only."
+    },
+    "353": {
+        "title": "Assault or criminal force to deter public servant from discharge of his duty",
+        "legal_text": "Whoever assaults or uses criminal force to any person being a public servant in the execution of his duty...",
+        "punishment": "Imprisonment up to 2 years, or fine, or both",
+        "nature": "Cognizable\nNon-bailable\nNon-compoundable\nTriable by Magistrate of First Class",
+        "practical_explanation": "Pushing or attacking an official to stop them from working.",
+        "example": "Shoving a police officer during a protest.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "332",
+                "description": "Hurt to public servant"
+            }
+        ],
+        "next_steps": [
+            "Serious offence.",
+            "Seek legal counsel."
+        ],
+        "conclusion": "Protects officials from assault.",
+        "disclaimer": "Informational only."
+    },
+    "354C": {
+        "title": "Voyeurism",
+        "legal_text": "Any man who watches, or captures the image of a woman engaging in a private act in circumstances where she would usually have the expectation of not being observed.",
+        "punishment": "First conviction: 1-3 years; Second: 3-7 years",
+        "nature": "Cognizable\nBailable (1st offence), Non-bailable (2nd)\nNon-compoundable\nTriable by Any Magistrate",
+        "practical_explanation": "Peeping or recording women in private moments.",
+        "example": "Hidden camera in a changing room.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "354D",
+                "description": "Stalking"
+            }
+        ],
+        "next_steps": [
+            "Report to cyber cell/police.",
+            "Destroy recordings."
+        ],
+        "conclusion": "Punishes violation of privacy.",
+        "disclaimer": "Informational only."
+    },
+    "354D": {
+        "title": "Stalking",
+        "legal_text": "Any man who follows a woman and contacts, or attempts to contact such woman to foster personal interaction repeatedly despite a clear indication of disinterest; or monitors usage by a woman of the internet, email or any other form of electronic communication.",
+        "punishment": "First conviction: Up to 3 years; Second: Up to 5 years",
+        "nature": "Cognizable\nBailable (1st offence), Non-bailable (2nd)\nNon-compoundable\nTriable by Any Magistrate",
+        "practical_explanation": "Following a woman or monitoring her online against her will.",
+        "example": "Repeatedly messaging a woman who has blocked you.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "354C",
+                "description": "Voyeurism"
+            }
+        ],
+        "next_steps": [
+            "Block contact.",
+            "File police complaint."
+        ],
+        "conclusion": "Anti-stalking law.",
+        "disclaimer": "Informational only."
+    },
+    "359": {
+        "title": "Kidnapping",
+        "legal_text": "Kidnapping is of two kinds: kidnapping from India, and kidnapping from lawful guardianship.",
+        "punishment": "Punishment under Section 363",
+        "nature": "Definition (Punished under 363)\nCognizable\nNon-bailable\nNon-compoundable\nTriable by Magistrate of First Class",
+        "practical_explanation": "Taking a minor away from parents without consent.",
+        "example": "Taking a child from school without parent's permission.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "363",
+                "description": "Punishment for kidnapping"
+            }
+        ],
+        "next_steps": [
+            "Report missing child immediately.",
+            "Coordinate with police."
+        ],
+        "conclusion": "Defines kidnapping.",
+        "disclaimer": "Informational only."
+    },
+    "363": {
+        "title": "Punishment for kidnapping",
+        "legal_text": "Whoever kidnaps any person from India or from lawful guardianship shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+        "punishment": "Imprisonment up to 7 years and fine",
+        "nature": "Cognizable\nBailable\nNon-compoundable\nTriable by Magistrate of First Class",
+        "practical_explanation": "Penalty for simple kidnapping.",
+        "example": "Conviction for taking a minor.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "359",
+                "description": "Kidnapping definition"
+            }
+        ],
+        "next_steps": [
+            "Hire lawyer.",
+            "Cooperate with investigation."
+        ],
+        "conclusion": "Serious punishment for kidnapping.",
+        "disclaimer": "Informational only."
+    },
+    "375": {
+        "title": "Rape",
+        "legal_text": "A man is said to commit 'rape' who has sexual intercourse with a woman under circumstances falling under any of the seven descriptions (against her will, without consent, etc.).",
+        "punishment": "Punishment under Section 376",
+        "nature": "Definition (Punished under 376)\nCognizable\nNon-bailable\nNon-compoundable\nTriable by Court of Session",
+        "practical_explanation": "Sexual intercourse without consent.",
+        "example": "Forcing someone into sexual acts.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "376",
+                "description": "Punishment for rape"
+            }
+        ],
+        "next_steps": [
+            "Report immediately.",
+            "Medical examination."
+        ],
+        "conclusion": "Defines rape.",
+        "disclaimer": "Informational only."
+    },
+    "376": {
+        "title": "Punishment for rape",
+        "legal_text": "Whoever commits rape shall be punished with rigorous imprisonment of not less than ten years, but which may extend to imprisonment for life, and shall also be liable to fine.",
+        "punishment": "Minimum 10 years to Life Imprisonment",
+        "nature": "Cognizable\nNon-bailable\nNon-compoundable\nTriable by Court of Session",
+        "practical_explanation": "Severe punishment for rape.",
+        "example": "Conviction for sexual assault.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "375",
+                "description": "Rape definition"
+            }
+        ],
+        "next_steps": [
+            "Surrender options.",
+            "Serious criminal defense."
+        ],
+        "conclusion": "One of the most severe punishments in IPC.",
+        "disclaimer": "Informational only."
+    },
+    "494": {
+        "title": "Marrying again during lifetime of husband or wife",
+        "legal_text": "Whoever, having a husband or wife living, marries in any case in which such marriage is void by reason of its taking place during the life of such husband or wife.",
+        "punishment": "Imprisonment up to 7 years and fine",
+        "nature": "Non-cognizable\nBailable\nCompoundable (with permission)\nTriable by Magistrate of First Class",
+        "practical_explanation": "Bigamy; marrying someone else while already married.",
+        "example": "Husband marrying a second wife without divorcing the first.",
+        "legal_risk_level": "🟡 Medium Risk",
+        "overlaps": [
+            {
+                "section": "495",
+                "description": "Concealing former marriage"
+            }
+        ],
+        "next_steps": [
+            "File for divorce first.",
+            "Report bigamy."
+        ],
+        "conclusion": "Punishes bigamy.",
+        "disclaimer": "Informational only."
+    },
+    "121": {
+        "title": "Waging, or attempting to wage war, or abetting waging of war, against the Government of India",
+        "legal_text": "Whoever wages war against the Government of India, or attempts to wage such war, or abets the waging of such war, shall be punished with death, or imprisonment for life, and shall also be liable to fine.",
+        "punishment": "Death, or imprisonment for life, and fine",
+        "nature": "Cognizable\nNon-bailable\nNon-compoundable\nTriable by Court of Session",
+        "practical_explanation": "Armed rebellion or war against the Indian state.",
+        "example": "Leading an armed insurgent group against the army.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "121A",
+                "description": "Conspiracy to wage war"
+            }
+        ],
+        "next_steps": [
+            "Surrender options.",
+            "High treason charge."
+        ],
+        "conclusion": "The most serious offence against the state.",
+        "disclaimer": "Informational only."
+    },
+    "124A": {
+        "title": "Sedition",
+        "legal_text": "Whoever by words... brings or attempts to bring into hatred or contempt, or excites or attempts to excite disaffection towards the Government established by law in India.",
+        "punishment": "Imprisonment for life, to which fine may be added, or with imprisonment which may extend to three years, to which fine may be added, or with fine.",
+        "nature": "Cognizable\nNon-bailable\nNon-compoundable\nTriable by Court of Session",
+        "practical_explanation": "Speech or acts inciting hatred against the government (Note: Supreme Court has paused this law).",
+        "example": "Speech urging violent overthrow of the government.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "153A",
+                "description": "Promoting enmity"
+            }
+        ],
+        "next_steps": [
+            "Check current legal status (SC stay).",
+            "Seek top counsel."
+        ],
+        "conclusion": "Controversial law against anti-government speech.",
+        "disclaimer": "Informational only."
+    },
+    "193": {
+        "title": "Punishment for false evidence",
+        "legal_text": "Whoever intentionally gives false evidence in any stage of a judicial proceeding, or fabricates false evidence for the purpose of being used in any stage of a judicial proceeding.",
+        "punishment": "Imprisonment up to 7 years and fine",
+        "nature": "Non-cognizable\nBailable\nNon-compoundable\nTriable by Magistrate of First Class",
+        "practical_explanation": "Lying in court or faking evidence for a trial.",
+        "example": "Witness lying under oath.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "191",
+                "description": "False evidence definition"
+            }
+        ],
+        "next_steps": [
+            "Tell the truth.",
+            "Correct testimony."
+        ],
+        "conclusion": "Severe punishment for perjury.",
+        "disclaimer": "Informational only."
+    },
+    "228A": {
+        "title": "Disclosure of identity of the victim of certain offences etc.",
+        "legal_text": "Whoever prints or publishes the name or any matter which may make known the identity of any person against whom an offence under section 376, 376A... is alleged or committed.",
+        "punishment": "Imprisonment up to 2 years and fine",
+        "nature": "Cognizable\nBailable\nNon-compoundable\nTriable by Any Magistrate",
+        "practical_explanation": "Revealing the name/photo of a rape victim.",
+        "example": "Newspaper publishing name of a sexual assault survivor.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [],
+        "next_steps": [
+            "Redact names immediately.",
+            "Apologize and remove content."
+        ],
+        "conclusion": "Protects privacy of sexual offence victims.",
+        "disclaimer": "Informational only."
+    },
+    "230": {
+        "title": "Coin defined",
+        "legal_text": "Coin is metal used for the time being as money, and stamped and issued by the authority of some State or Sovereign Power in order to be so used.",
+        "punishment": "Definition only",
+        "nature": "Definition\nSee Section 231 for punishment",
+        "practical_explanation": "Defines what a coin is.",
+        "example": "Indian Rupee coin.",
+        "legal_risk_level": "🟢 Low Risk",
+        "overlaps": [
+            {
+                "section": "231",
+                "description": "Counterfeiting coin"
+            }
+        ],
+        "next_steps": [],
+        "conclusion": "Definition section.",
+        "disclaimer": "Informational only."
+    },
+    "231": {
+        "title": "Counterfeiting coin",
+        "legal_text": "Whoever counterfeits or knowingly performs any part of the process of counterfeiting coin.",
+        "punishment": "Imprisonment up to 7 years and fine",
+        "nature": "Cognizable\nNon-bailable\nNon-compoundable\nTriable by Magistrate of First Class",
+        "practical_explanation": "Making fake coins.",
+        "example": "Running a fake coin factory.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "232",
+                "description": "Counterfeiting Indian coin"
+            }
+        ],
+        "next_steps": [
+            "Surrender illegal equipment.",
+            "Severe federal crime."
+        ],
+        "conclusion": "Punishes extensive counterfeiting.",
+        "disclaimer": "Informational only."
+    },
+    "255": {
+        "title": "Counterfeiting Government stamp",
+        "legal_text": "Whoever counterfeits, or knowingly performs any part of the process of counterfeiting, any stamp issued by Government for the purpose of revenue.",
+        "punishment": "Imprisonment for life or up to 10 years and fine",
+        "nature": "Cognizable\nNon-bailable\nNon-compoundable\nTriable by Court of Session",
+        "practical_explanation": "Faking official revenue stamps/papers.",
+        "example": "Printing fake court fee stamps.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "256",
+                "description": "Possession of counterfeit stamp tools"
+            }
+        ],
+        "next_steps": [
+            "Stop operations.",
+            "Report."
+        ],
+        "conclusion": "Economic offence against the state.",
+        "disclaimer": "Informational only."
+    },
+    "295": {
+        "title": "Injuring or defiling place of worship with intent to insult the religion of any class",
+        "legal_text": "Whoever destroys, damages or defiles any place of worship, or any object held sacred by any class of persons...",
+        "punishment": "Imprisonment up to 2 years, or fine, or both",
+        "nature": "Cognizable\nNon-bailable\nNon-compoundable\nTriable by Any Magistrate",
+        "practical_explanation": "Vandalizing a temple, mosque, church, etc.",
+        "example": "Throwing garbage into a holy shrine.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "295A",
+                "description": "Insulting religious beliefs"
+            }
+        ],
+        "next_steps": [
+            "Respect religious sites.",
+            "Surrender if accused."
+        ],
+        "conclusion": "Protects religious places.",
+        "disclaimer": "Informational only."
+    },
+    "296": {
+        "title": "Disturbing religious assembly",
+        "legal_text": "Whoever voluntarily causes disturbance to any assembly lawfully engaged in the performance of religious worship, or religious ceremonies.",
+        "punishment": "Imprisonment up to 1 year, or fine, or both",
+        "nature": "Cognizable\nBailable\nNon-compoundable\nTriable by Any Magistrate",
+        "practical_explanation": "Disrupting a prayer meeting or religious procession.",
+        "example": "Playing loud music intentionally to disrupt prayers.",
+        "legal_risk_level": "🟡 Medium Risk",
+        "overlaps": [
+            {
+                "section": "295",
+                "description": "Defiling place of worship"
+            }
+        ],
+        "next_steps": [
+            "Stop disruptions.",
+            "Respect rituals."
+        ],
+        "conclusion": "Ensures peaceful worship.",
+        "disclaimer": "Informational only."
+    },
+    "297": {
+        "title": "Trespassing on burial places, etc.",
+        "legal_text": "Whoever, with the intention of wounding the feelings of any person, or of insulting the religion of any person... commits any trespass in any place of worship or on any place of sepulchre.",
+        "punishment": "Imprisonment up to 1 year, or fine, or both",
+        "nature": "Cognizable\nBailable\nNon-compoundable\nTriable by Any Magistrate",
+        "practical_explanation": "Disrespecting graves or cremation grounds.",
+        "example": "Digging up a grave illegally.",
+        "legal_risk_level": "🟡 Medium Risk",
+        "overlaps": [],
+        "next_steps": [
+            "Respect burial grounds.",
+            "Apologize."
+        ],
+        "conclusion": "Protects dignity of the dead.",
+        "disclaimer": "Informational only."
+    },
+    "298": {
+        "title": "Uttering, words, etc., with deliberate intent to wound the religious feelings of any person",
+        "legal_text": "Whoever, with the deliberate intention of wounding the religious feelings of any person, utters any word or makes any sound in the hearing of that person...",
+        "punishment": "Imprisonment up to 1 year, or fine, or both",
+        "nature": "Non-cognizable\nBailable\nCompoundable (with permission)\nTriable by Any Magistrate",
+        "practical_explanation": "Speaking specifically to hurt someone's religious feelings.",
+        "example": "Using slurs against someone's god to their face.",
+        "legal_risk_level": "🟡 Medium Risk",
+        "overlaps": [
+            {
+                "section": "295A",
+                "description": "Malicious acts against religion"
+            }
+        ],
+        "next_steps": [
+            "Avoid hate speech.",
+            "Seek compromise."
+        ],
+        "conclusion": "Punishes deliberate verbal religious insults.",
+        "disclaimer": "Informational only."
+    },
+    "312": {
+        "title": "Causing miscarriage",
+        "legal_text": "Whoever voluntarily causes a woman with child to miscarry, shall, if such miscarriage be not caused in good faith for the purpose of saving the life of the woman, be punished.",
+        "punishment": "Imprisonment up to 3 years, or fine, or both (7 years if quick with child)",
+        "nature": "Non-cognizable\nBailable\nNon-compoundable\nTriable by Magistrate of First Class",
+        "practical_explanation": "Illegal abortion.",
+        "example": "Forcing someone to have an abortion without medical necessity.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "313",
+                "description": "Causing miscarriage without consent"
+            }
+        ],
+        "next_steps": [
+            "Follow MTP Act guidelines.",
+            "Consult doctor."
+        ],
+        "conclusion": "Restricts illegal abortions.",
+        "disclaimer": "Informational only."
+    },
+    "313": {
+        "title": "Causing miscarriage without woman's consent",
+        "legal_text": "Whoever commits the offence defined in the last preceding section without the consent of the woman...",
+        "punishment": "Imprisonment for life, or imprisonment up to 10 years, and fine",
+        "nature": "Cognizable\nNon-bailable\nNon-compoundable\nTriable by Court of Session",
+        "practical_explanation": "Forcing an abortion on a woman against her will.",
+        "example": "Husband spiking wife's drink to cause miscarriage.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "312",
+                "description": "Causing miscarriage"
+            }
+        ],
+        "next_steps": [
+            "Serious crime.",
+            "Immediate police report."
+        ],
+        "conclusion": "Severe punishment for forced miscarriage.",
+        "disclaimer": "Informational only."
+    },
+    "330": {
+        "title": "Voluntarily causing hurt to extort confession, or to compel restoration of property",
+        "legal_text": "Whoever voluntarily causes hurt for the purpose of extorting from the sufferer or any person interested in the sufferer any confession...",
+        "punishment": "Imprisonment up to 7 years and fine",
+        "nature": "Cognizable\nBailable\nNon-compoundable\nTriable by Magistrate of First Class",
+        "practical_explanation": "Police or anyone beating someone to get a confession.",
+        "example": "Custodial torture to get a confession.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "348",
+                "description": "Wrongful confinement to extort confession"
+            }
+        ],
+        "next_steps": [
+            "Report custodial violence.",
+            "Seek medical exam."
+        ],
+        "conclusion": "Prohibits torture for confession.",
+        "disclaimer": "Informational only."
+    },
+    "388": {
+        "title": "Extortion by threat of accusation of an offence punishable with death or imprisonment for life, etc.",
+        "legal_text": "Whoever commits extortion by putting any person in fear of an accusation against that person... of having committed or attempted to commit any offence punishable with death...",
+        "punishment": "Imprisonment up to 10 years, and fine (Life if offence threatened is unnatural offence)",
+        "nature": "Cognizable\nNon-bailable\nNon-compoundable\nTriable by Court of Session",
+        "practical_explanation": "Blackmailing someone by threatening to accuse them of a serious crime like murder or rape.",
+        "example": "Threatening to file a false rape case unless paid.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "389",
+                "description": "Putting person in fear of accusation"
+            }
+        ],
+        "next_steps": [
+            "Report blackmail.",
+            "Record evidence."
+        ],
+        "conclusion": "Severe punishment for serious blackmail.",
+        "disclaimer": "Informational only."
+    },
+    "493": {
+        "title": "Cohabitation caused by a man deceitfully inducing a belief of lawful marriage",
+        "legal_text": "Every man who by deceit causes any woman who is not lawfully married to him to believe that she is lawfully married to him and to cohabit with him...",
+        "punishment": "Imprisonment up to 10 years and fine",
+        "nature": "Non-cognizable\nNon-bailable\nNon-compoundable\nTriable by Magistrate of First Class",
+        "practical_explanation": "Tricking a woman into believing she is married to you to have sex.",
+        "example": "Performing a fake wedding ceremony to live with a woman.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "375",
+                "description": "Rape (deceitful consent)"
+            }
+        ],
+        "next_steps": [
+            "Report deception.",
+            "Seek annulment/damages."
+        ],
+        "conclusion": "Punishes marriage fraud.",
+        "disclaimer": "Informational only."
+    },
+    "496": {
+        "title": "Marriage ceremony fraudulently gone through without lawful marriage",
+        "legal_text": "Whoever, dishonestly or with a fraudulent intention, goes through the ceremony of being married, knowing that he is not thereby lawfully married...",
+        "punishment": "Imprisonment up to 7 years and fine",
+        "nature": "Non-cognizable\nBailable\nNon-compoundable\nTriable by Magistrate of First Class",
+        "practical_explanation": "Performing a fake wedding ceremony.",
+        "example": "Pretending to marry just to get dowry/status.",
+        "legal_risk_level": "🟡 Medium Risk",
+        "overlaps": [
+            {
+                "section": "493",
+                "description": "Cohabitation by deceit"
+            }
+        ],
+        "next_steps": [
+            "Proof of invalidity.",
+            "Report fraud."
+        ],
+        "conclusion": "Punishes sham marriages.",
+        "disclaimer": "Informational only."
+    },
+    "505": {
+        "title": "Statements conducing to public mischief",
+        "legal_text": "Whoever makes, publishes or circulates any statement, rumor or report... with intent to cause, or which is likely to cause, any officer, soldier... to mutiny... or to cause fear or alarm to the public.",
+        "punishment": "Imprisonment up to 3 years (or 5 years in place of worship)",
+        "nature": "Cognizable\nNon-bailable\nNon-compoundable\nTriable by Any Magistrate",
+        "practical_explanation": "Spreading rumors to cause panic or mutiny.",
+        "example": "Circulating fake news causing a riot.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "153A",
+                "description": "Promoting enmity"
+            }
+        ],
+        "next_steps": [
+            "Verify news before sharing.",
+            "Report fake news."
+        ],
+        "conclusion": "Punishes public mischief via speech.",
+        "disclaimer": "Informational only."
+    },
+    "507": {
+        "title": "Criminal intimidation by an anonymous communication",
+        "legal_text": "Whoever commits the offence of criminal intimidation by an anonymous communication, or having taken precaution to conceal the name...",
+        "punishment": "Imprisonment up to 2 years (in addition to Section 506 punishment)",
+        "nature": "Non-cognizable\nBailable\nNon-compoundable\nTriable by Magistrate of First Class",
+        "practical_explanation": "Threatening someone anonymously (e.g. unknown caller, anonymous letter).",
+        "example": "Sending an anonymous threatening email.",
+        "legal_risk_level": "🔴 High Risk",
+        "overlaps": [
+            {
+                "section": "506",
+                "description": "Criminal intimidation"
+            }
+        ],
+        "next_steps": [
+            "Trace sender via cyber police.",
+            "Do not ignore."
+        ],
+        "conclusion": "Extra punishment for anonymous threats.",
+        "disclaimer": "Informational only."
+    },
+    "508": {
+        "title": "Act caused by inducing person to believe that he will be rendered an object of the Divine displeasure",
+        "legal_text": "Whoever voluntarily causes or attempts to cause any person to do anything which that person is not legally bound to do... by inducing... belief that he... will become an object of Divine displeasure.",
+        "punishment": "Imprisonment up to 1 year, or fine, or both",
+        "nature": "Non-cognizable\nBailable\nCompoundable\nTriable by Any Magistrate",
+        "practical_explanation": "Scaring someone into doing something by claiming God will punish them.",
+        "example": "A godman threatening a curse if a devotee doesn't donate money.",
+        "legal_risk_level": "🟡 Medium Risk",
+        "overlaps": [
+            {
+                "section": "420",
+                "description": "Cheating"
+            }
+        ],
+        "next_steps": [
+            "Report superstition-based fraud.",
+            "Do not fear curses."
+        ],
+        "conclusion": "Prevents exploitation via superstition.",
+        "disclaimer": "Informational only."
+    },
+    "501": {
+        "title": "Printing or engraving matter known to be defamatory",
+        "legal_text": "Whoever prints or engraves any matter, knowing or having good reason to believe that such matter is defamatory of any person.",
+        "punishment": "Simple imprisonment up to 2 years, or fine, or both",
+        "nature": "Non-cognizable\nBailable\nCompoundable\nTriable by Magistrate of First Class",
+        "practical_explanation": "Printing defamatory material.",
+        "example": "Printing a magazine full of lies about someone.",
+        "legal_risk_level": "🟡 Medium Risk",
+        "overlaps": [
+            {
+                "section": "500",
+                "description": "Defamation punishment"
+            }
+        ],
+        "next_steps": [
+            "Refuse to print libel.",
+            "Issue retraction."
+        ],
+        "conclusion": "Punishes printers of defamation.",
+        "disclaimer": "Informational only."
+    }
+}

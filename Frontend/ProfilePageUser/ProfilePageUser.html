@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guardian</title>
+</head>
+<style>
+    body{
+        height: 100vh;
+        display: grid;
+        grid-template-rows: 1fr 20fr 1fr;
+        margin: 0;
+        padding: 0;
+    }
+    #bar{
+        background-color: #a53e3e;
+        display: grid;
+        grid-template-columns: 1fr 4fr 1fr;
+    }
+    #helpline{
+        text-align: center;
+        background-color: #a53e3e;
+    }
+    #guardian{
+        margin-left: 100px;
+    }    
+    #options{    
+        display: flex;
+        gap: 10px;
+
+    }
+    #pfp{
+        border-radius: 50%;
+        display: inline;
+        
+       
+    }
+    #desc{
+        display: flex;
+        flex-direction: row;
+        gap: 50px;
+    }
+    #prof-desc{
+        
+        display: inline;
+    }
+    #page{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+</style>
+<body>
+    <div class="navigation_bar" id="bar">
+        <div id="title"><a href=""><h1 id="guardian">Guardian</h1></a></div>
+        <div></div>
+        <div id="options">
+            
+            <a href=""><h4>Select Advocate</h4></a>
+            <a href=""><h4>Chat</h4></a>
+            <a href=""><h4>Logout</h4></a>
+        </div>
+    </div>
+    <div class="main_page" id="page">
+        <div id="desc">
+            <img id="pfp" src="./download.jpg" alt="">
+            <div id="prof-desc"> <h1>Sriraam Venkatesan</h1>
+            <h2>User</h2>
+            <p>Case: Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quasi vel ipsum fugiat quidem quam doloremque nihil quae exercitationem animi explicabo?</p>
+            <p>Cost Preferences:Rs.50000</p>
+            <button>Connect +</button>
+            <button>Message</button>
+        </div>
+            </div>
+        
+        </div>
+    </div>
+    <div class="helpline_bar" id="helpline">
+        <h1>For Queries Contact</h1>
+        <h4>Phone Number: +91 7305896363</h4>
+        <h4>Mail ID: sriraam1411@gmail.com</h4>
+    </div>
+</body>
+</html>

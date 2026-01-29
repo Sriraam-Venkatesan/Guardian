@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign in  |  Guardian</title>
+</head>
+<style>
+     @font-face {
+            font-family: "home-para";
+            src: url("./cinzel.regular.otf");
+        }
+        @font-face {
+            font-family:"home-cred";
+            src: url("./NotoSerif-VariableFont_wdth\,wght.ttf");
+        }
+        @font-face {
+            font-family: "title";
+            src: url("./Cinzel-Bold.otf");
+        }
+    body{
+        margin: 0;
+        padding:0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center ;
+    }
+    #box{
+        margin-top: 100px;
+        height: 500px;
+        width: 350px;
+        background-image: linear-gradient(to bottom right,  #c78334, #7c5a04);
+        border-radius: 50px;
+        box-shadow: 0px 0px 5px black;
+        display: flex;
+        padding-left: 50px;
+        padding-right: 50px;
+        flex-direction: column;
+        color: white;
+        align-items: center;
+        justify-content: center;
+        
+    }
+    #submit-but{
+        margin-bottom: 30px;
+        margin-top: 30px;
+         height: 40px;
+            width: 150px;
+            border-radius: 20px;
+            border: none;
+            font-family: home-para;
+            font-size: 16px;
+            background-image: linear-gradient(to bottom right, #966125, #5a4102);
+            color: white;
+            box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.584);
+         
+    }
+     #submit-but:hover{
+            background-image: linear-gradient(to bottom right, #c78334, #7c5a04);
+            cursor: pointer;
+        }
+    .inputs{
+    font-family:"home-cred";
+    border-radius: 5px;
+    border: none;
+    padding-left: 5px;
+    padding-right: 5px;
+    }
+    .inputs:focus{
+        outline: none;
+        box-shadow: 0px 0px 3px black;
+    }
+    .headers{
+         font-family: "home-para";
+    }
+    #title{
+        font-family: "title";
+    }
+    #line{
+        width:300px;
+        margin: 0px;
+        padding: 0px;
+    }
+     #line2{
+        width:300px;
+        margin: 0px;
+        padding: 0px;
+        margin-top: 20px;
+    }
+</style>
+<body>
+    <div id="box">
+        <h1 class="within-box" id="title">Sign in</h1>
+        <hr class="within-box" id="line">
+        <div class="headers" id="cred" ><p class="mail-entry" id="username">Mail Id or Phone Number</p>
+        <input class="inputs" id="input-mail" type="text" placeholder="Enter your Mail Id or Phone Number">
+    </div>
+            <div class="within-box" id="cred" ><p class="headers" id="pass">Password</p>
+        <input class="inputs" id="input-pass" type="text" placeholder="Enter your Password">
+    </div>
+    <hr class="within-box" id="line2">
+      <button type="submit" class="within-box" id="submit-but">Submit</button>  
+    </div>
+</body>
+</html>

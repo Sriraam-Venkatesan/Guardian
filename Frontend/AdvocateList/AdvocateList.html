@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guardian</title>
+</head>
+<style>
+     @font-face {
+        font-family: "home-font";
+        src: url("./Cinzel-Bold.otf");
+    }
+     @font-face {
+        font-family: "home-para";
+        src: url("./cinzel.regular.otf");
+    }
+    @font-face {
+        font-family:"home-cred" ;
+        src: url("./NotoSerif-VariableFont_wdth\,wght.ttf");
+    }
+    body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+    #bar{
+        background-image: linear-gradient(to bottom right, #966125, #5a4102);
+        display: flex;
+        gap:325px;
+        color: white;
+        text-decoration: none;
+        box-shadow: 0px 0px 10px black;
+    }
+   #helpline{
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        justify-content: center;
+        align-items: center;
+        color: white;
+        font-family: "home-para";
+        background-image: linear-gradient(to bottom right, #966125, #5a4102);
+      border-radius: 30px 30px 0 0;  
+      box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.525);
+      font-family:"home-cred" ;
+      margin-top: 40px;
+    }
+    a{
+        color: white;
+        text-decoration: none;
+    }  
+    #guardian{
+        font-family: "home-font";
+        margin-left: 100px ;
+        
+    }
+    #options{    
+        display: flex;
+        gap: 50px;
+        justify-content: center;
+        align-items: center;
+        font-family: "home-para";
+        font-size: 14px;
+        margin-right: 20px;
+
+    }
+   
+   .adv-prof{
+        height: 400px;
+        width: 300px;
+        background-image: linear-gradient(to bottom right, #966125, #5a4102);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap;
+        flex-direction: column;
+        text-align: center;   
+        border-radius: 40px;  
+        color: white;
+        box-shadow: 0px 0px 5px black;
+   }
+   .adv-prof:hover{
+         background-image: linear-gradient(to bottom right, #c78334, #7c5a04);
+            cursor: pointer;
+   }
+   #pfp{
+    border-radius: 50%;
+    height:200px;
+    width: 200px;
+    box-shadow: 0px 0px 5px black;
+   }
+   #desc{
+    display: inline;
+    margin:0;
+    padding-left: 20px;
+    padding-right: 20px;
+     margin-top: 5px;
+    text-align: justify;
+    font-family:"home-cred" ;
+    font-size: 12px;
+    text-shadow: 0px 0px 1px;
+   }
+   #name{
+    display: inline;
+    margin: 0;
+    margin-top: 20px;
+    font-family: home-font;
+    text-shadow: 0px 0px 2px;
+   }
+   #selection-page{
+    display: flex;
+    flex: 0 0 300px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap:40px;
+    justify-content: center;
+    align-items: center;
+   }
+  
+</style>
+<body>
+    <div class="navigation_bar" id="bar">
+        <div id="title"><a href=""><h1 id="guardian">Guardian</h1></a></div>
+        <div></div>
+        <div id="options">
+            <a href=""><h4>Connect with other Advocates</h4></a>
+            <a href=""><h4>Profile</h4></a>
+            <a href=""><h4>Chat</h4></a>
+            <a href=""><h4>Logout</h4></a>
+        </div>
+    </div>
+    
+    <div class="main_page" id="page">
+        <h1 style="text-align: center;font-family: home-font; text-shadow: 0px 0px 2px; ">Advocate List</h1>
+        <a href=""><div id="selection-page">
+            <div class="adv-prof">
+            <img id="pfp" src="./download.jpg" alt="">
+            <h2 id="name">S.P.Sethumathavan</h2>
+            <p id="desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi beatae iste totam dicta temporibus impedit inventore maiores quasi architecto accusamus.</p>
+        </div></a>
+        <a href=""><div class="adv-prof">
+            <img id="pfp" src="./download.jpg" alt="">
+            <h2 id="name">Vishnu Prasaath</h2>
+            <p id="desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi beatae iste totam dicta temporibus impedit inventore maiores quasi architecto accusamus.</p>
+        </div></a>
+         <div class="adv-prof">
+            <img id="pfp" src="./download.jpg" alt="">
+            <h2 id="name">Udhayakumar</h2>
+            <p id="desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi beatae iste totam dicta temporibus impedit inventore maiores quasi architecto accusamus.</p>
+        </div>
+         <div class="adv-prof">
+            <img id="pfp" src="./download.jpg" alt="">
+            <h2 id="name">Sriraam Venkatesan</h2>
+            <p id="desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi beatae iste totam dicta temporibus impedit inventore maiores quasi architecto accusamus.</p>
+        </div>
+          <div class="adv-prof">
+            <img id="pfp" src="./download.jpg" alt="">
+            <h2 id="name">S.P.Sethumathavan</h2>
+            <p id="desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi beatae iste totam dicta temporibus impedit inventore maiores quasi architecto accusamus.</p>
+        </div>
+        <div class="adv-prof">
+            <img id="pfp" src="./download.jpg" alt="">
+            <h2 id="name">Vishnu Prasaath</h2>
+            <p id="desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi beatae iste totam dicta temporibus impedit inventore maiores quasi architecto accusamus.</p>
+        </div>
+         <div class="adv-prof">
+            <img id="pfp" src="./download.jpg" alt="">
+            <h2 id="name">Udhayakumar</h2>
+            <p id="desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi beatae iste totam dicta temporibus impedit inventore maiores quasi architecto accusamus.</p>
+        </div>
+         <div class="adv-prof">
+            <img id="pfp" src="./download.jpg" alt="">
+            <h2 id="name">Sriraam Venkatesan</h2>
+            <p id="desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi beatae iste totam dicta temporibus impedit inventore maiores quasi architecto accusamus.</p>
+        </div>
+          <div class="adv-prof">
+            <img id="pfp" src="./download.jpg" alt="">
+            <h2 id="name">S.P.Sethumathavan</h2>
+            <p id="desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi beatae iste totam dicta temporibus impedit inventore maiores quasi architecto accusamus.</p>
+        </div>
+        <div class="adv-prof">
+            <img id="pfp" src="./download.jpg" alt="">
+            <h2 id="name">Vishnu Prasaath</h2>
+            <p id="desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi beatae iste totam dicta temporibus impedit inventore maiores quasi architecto accusamus.</p>
+        </div>
+         <div class="adv-prof">
+            <img id="pfp" src="./download.jpg" alt="">
+            <h2 id="name">Udhayakumar</h2>
+            <p id="desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi beatae iste totam dicta temporibus impedit inventore maiores quasi architecto accusamus.</p>
+        </div>
+         <div class="adv-prof">
+            <img id="pfp" src="./download.jpg" alt="">
+            <h2 id="name">Sriraam Venkatesan</h2>
+            <p id="desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi beatae iste totam dicta temporibus impedit inventore maiores quasi architecto accusamus.</p>
+        </div>        
+    </div>
+     <div class="helpline_bar" id="helpline">
+        <h1 style="font-family: home-font;padding: 0px;margin: 0px; padding-top: 15px;">For Queries Contact</h1>
+        <hr style="width: 1400px;border: none; background-color: #fff; height: 1.5px;">
+        <p style="padding: 0px;margin: 0px;;" >Phone Number: +91 7305896363</p>
+        <p style="padding: 0px;margin: 0px;;padding-bottom: 15px;">Mail Id:  sriraam1411@gmail.com</p>
+    </div>
+</body>
+</html>

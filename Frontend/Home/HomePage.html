@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guardian | Home</title>
+</head>
+<style>
+    @font-face {
+        font-family: "home-font";
+        src: url("./Cinzel-Bold.otf");
+    }
+    @font-face {
+        font-family: "home-para";
+        src: url("./BodoniModa-VariableFont_opsz\,wght.ttf");
+    }
+    body{
+        height: 100vh;
+        display: grid;
+        grid-template-rows: 1fr  7fr 3fr;
+        margin: 0;
+        padding: 0;
+        background-image: linear-gradient(to right, #00000034, rgb(255, 255, 255));
+    }
+    #bar{
+        
+        background-image: linear-gradient(to bottom right, #dc7702, rgb(219, 162, 48));
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.525);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        display: flex; 
+        border-radius: 0 0 50px 50px;   
+        
+    }
+  
+    #page{
+        display: grid;
+        grid-template-columns: 2fr 1fr;
+    }
+    #desc{
+    margin-top: 70px;  
+    margin-left: 100px;
+    background-image: linear-gradient(to right, rgb(255, 255, 255), rgba(0, 0, 0, 0.16));
+    padding: 40px 40px 40px 40px;
+    font-family: home-para;
+    border-radius: 20px 20px 0 0;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.525);
+        
+    }
+    #log{
+       
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    #box{
+        height:350px;
+        width: 300px;
+         background-image: linear-gradient(to bottom right, #dc7702, rgb(219, 162, 48));
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        align-items: center;
+        justify-content: center;
+        padding: 10px;
+        border-radius: 75px;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.525);
+        border: 2px solid #dc7702;
+        gap: 30px;
+        position: sticky;
+        }
+    #helpline{
+        text-align: center;
+        color: white;
+        font-family: "home-para";
+        background-image: linear-gradient(to bottom right, #dc7702, rgb(219, 162, 48));
+      border-radius: 50px 50px 0 0;  
+      box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.525);
+      
+    }
+    #guardian-bar{
+        display: flex;
+        padding: 0px;
+        margin: 0px;
+        font-family: home-font;
+        font-size: 45px;
+        text-shadow: 0px 0px 5px;
+       
+        color: rgb(255, 255, 255);
+        padding-bottom: 10px;
+        padding-top: 5px; 
+    }
+    #description{
+        font-family:'Times New Roman', Times, serif;
+        text-align: justify;
+        padding: 0px;
+        margin: 0px;
+        display: flex;
+        font-size: 17px;
+        display: inline-block;
+    }
+    #guardian-page{
+        display: flex;
+        
+        margin: 0px;
+        font-family: home-font;
+        font-weight: 100;
+        
+    }
+    hr{
+       
+        border: 0.5px solid black;
+        
+    }
+    button{
+        height: 50px;
+        width: 250px;
+        border-radius: 25px;
+        border: 2px solid white;
+        font-size: 20px;
+        font-family: home-font;
+        font-weight: bold;
+        color: #dc7702;
+        background: white;
+        box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.173);
+    }
+    button:hover{
+           background-image: linear-gradient(to bottom right,rgb(219, 162, 48),#dc7702 );
+           cursor: pointer;
+           color: #fff;
+           box-shadow: 0px 0px 7px rgba(0, 0, 0, 0.553);
+    }
+</style>
+<body>
+    <div class="navigation_bar" id="bar">
+        <h1 id="guardian-bar">Guardian</h1>
+    </div>
+    <div class="main_page" id="page">
+        <div id="desc">
+            <h2 id="guardian-page">Guardian</h2>
+            <hr>
+            
+            <p id="description">Guardian is an AI-powered legal support platform designed to make justice accessible, affordable, and understandable for everyone. Legal assistance today is often expensive, slow, and hidden behind complex language that discourages citizens, students, and small businesses from seeking timely help. Guardian removes these barriers by providing instant, plain-language legal guidance without appointments or high consultation costs. Acting as a first line of support, it offers simplified explanations of laws, step-by-step procedural guidance, and assistance with basic legal document drafting. By handling repetitive and informational queries, Guardian reduces the workload on lawyers while ensuring users receive consistent, reliable guidance at any time. Unlike traditional legal tools, Guardian prioritizes clarity and trust, translating complex legal concepts into simple terms while maintaining accuracy through lawyer-verified content. Built to support—not replace—legal professionals, Guardian strengthens the justice ecosystem by improving legal literacy and enabling experts to focus on complex cases. Aligned with SDG 16 – Peace, Justice, and Strong Institutions, Guardian promotes transparency, fairness, and equal access to justice, with future plans for multilingual support, advanced document automation, and integration with court and government systems.</p>
+        </div>
+        <div id="log">
+            <div id="box">
+                <a href=""><button>Sign in as Advocate</button></a>
+                <a href=""><button>Sign in as User</button></a>
+                <a href=""><button>Sign up</button></a>
+            </div>
+            
+        </div>
+    </div>
+    <div class="helpline_bar" id="helpline">
+        <h1 style="font-family: home-font;padding: 0px;margin: 0px; padding-top: 15px;">For Queries Contact</h1>
+        <hr style="width: 400px;border: none; background-color: #fff; height: 1.5px;">
+        <p style="padding: 0px;margin: 0px;font-weight: bolder;" >Phone Number:  +91 7305896363</p>
+        <p style="padding: 0px;margin: 0px;font-weight: bolder;padding-bottom: 15px;">Mail Id:  sriraam1411@gmail.com</p>
+    </div>
+</body>
+</html>
